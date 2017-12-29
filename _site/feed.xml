@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2017-12-30T04:35:46+05:30</updated>
+  <updated>2017-12-30T04:51:31+05:30</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -29,9 +29,9 @@
   
     <entry>
       
-      <title type="html">Predicting Emotions Of A Group</title>
+      <title type="html">Predicting Emotions of a Group</title>
       
-      <link href="http://localhost:4000/2017/12/30/predicting-emotions-of-a-group/" rel="alternate" type="text/html" title="Predicting Emotions Of A Group" />
+      <link href="http://localhost:4000/2017/12/30/predicting-emotions-of-a-group/" rel="alternate" type="text/html" title="Predicting Emotions of a Group" />
       <published>2017-12-30T01:32:28+05:30</published>
       <updated>2017-12-30T01:32:28+05:30</updated>
       <id>http://localhost:4000/2017/12/30/predicting-emotions-of-a-group</id>
@@ -224,13 +224,13 @@
       
 
       
+
+      
         <category term="vision" />
       
         <category term="emotion-detection" />
       
         <category term="competition" />
-      
-
       
 
       
