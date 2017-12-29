@@ -27,7 +27,7 @@ github_username:  saqibns
 # Build settings
 markdown: kramdown
 mathjax: true
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
