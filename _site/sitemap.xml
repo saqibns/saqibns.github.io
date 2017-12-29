@@ -16,13 +16,4 @@
 <url>
 <loc>http://localhost:4000/</loc>
 </url>
-<url>
-<loc>http://localhost:4000/categories/vision/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/categories/emotion-detection/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/categories/competition/</loc>
-</url>
 </urlset>
