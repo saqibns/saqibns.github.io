@@ -5,7 +5,7 @@
   
   <link href="https://saqibns.github.io//feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://saqibns.github.io//" rel="alternate" type="text/html" />
-  <updated>2017-12-30T04:21:44+05:30</updated>
+  <updated>2017-12-30T04:37:41+05:30</updated>
   <id>https://saqibns.github.io///</id>
 
   
@@ -42,7 +42,7 @@
   &lt;li&gt;Audio-Video Emotion Recognition&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;I paritcipated in the former with Bhanu Pratap Singh Rawat and Manya Wadhwa. We were given a dataset which contained photographs of groups of people. The aim of the sub-challenge was to come up with a model that could classify the emotion the group as &lt;code class=&quot;highlighter-rouge&quot;&gt;Positive&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;Negative&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;Neural&lt;/code&gt;. This post describes our approach for the challenge.&lt;/p&gt;
+&lt;p&gt;I participated in the former with Bhanu Pratap Singh Rawat and Manya Wadhwa. We were given a dataset which contained photographs of groups of people. The aim of the sub-challenge was to come up with a model that could classify the emotion the group as &lt;code class=&quot;highlighter-rouge&quot;&gt;Positive&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;Negative&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;Neural&lt;/code&gt;. This post describes our approach for the challenge.&lt;/p&gt;
 
 &lt;h2 id=&quot;dataset&quot;&gt;Dataset&lt;/h2&gt;
 
@@ -93,19 +93,19 @@
 
 &lt;h3 id=&quot;emotion-of-individual-faces&quot;&gt;Emotion of Individual Faces&lt;/h3&gt;
 
-&lt;p&gt;The first step of our approach was to extract faces from each file and determine the emotion of each face. We extracted faces from the files using &lt;a href=&quot;http://dlib.net/&quot;&gt;Dlib&lt;/a&gt; and determined the emotion for each of the extracted face. This was done using the pre-trained &lt;a href=&quot;https://www.openu.ac.il/home/hassner/projects/cnn_emotions/&quot;&gt;models&lt;/a&gt; by Gil Levi and Tal Hassner developed for EmotiW 2015 (we shall refer to them as &lt;em&gt;LHModels&lt;/em&gt; throughout the post). It is a set of five models which assign scores for seven standard emotions: Anger, Disgust, Fear, Happy, Neutral, Sad and Surprise. A single score for each face across the seven categories is obtained by averaging the five scores obtained for each category.&lt;/p&gt;
+&lt;p&gt;The first step of our approach was to extract faces from each file and determine the emotion of each face. We extracted faces from the files using &lt;a href=&quot;http://dlib.net/&quot;&gt;Dlib&lt;/a&gt; and determined the emotion for each of the extracted faces. This was done using the pre-trained &lt;a href=&quot;https://www.openu.ac.il/home/hassner/projects/cnn_emotions/&quot;&gt;models&lt;/a&gt; by Gil Levi and Tal Hassner developed for EmotiW 2015 (we shall refer to them as &lt;em&gt;LHModels&lt;/em&gt; throughout the post). It is a set of five models which assign scores for seven standard emotions: Anger, Disgust, Fear, Happy, Neutral, Sad and Surprise. A single score for each face across the seven categories is obtained by averaging the five scores obtained for each category.&lt;/p&gt;
 
 &lt;h3 id=&quot;combination-of-values&quot;&gt;Combination of Values&lt;/h3&gt;
 
-&lt;p&gt;Once we obtained face wise emotions, a logical next step was use the scores obtained for individual faces and somehow combine them to enable a learning algorith to accurately determine the emotion of a group.&lt;/p&gt;
+&lt;p&gt;Once we obtained face wise emotions, a logical next step was to use the scores obtained for individual faces and somehow combine them to enable a learning algorithm to accurately determine the emotion of a group.&lt;/p&gt;
 
-&lt;p&gt;We averaged five vectors obtained for every face in the image. The emotion with the highest value was said to be the overall emotion of the group. We then trained a Random Forest Classifier (15 estimators) with the averaged seven dimensional vector for each image.&lt;/p&gt;
+&lt;p&gt;We averaged five vectors obtained for every face in the image. The emotion with the highest value was said to be the overall emotion of the group. We then trained a Random Forest Classifier (15 estimators) with the averaged seven-dimensional vector for each image.&lt;/p&gt;
 
-&lt;p&gt;For both of the cases above, if an image was labelled as one of Anger, Disgust, Fear, Sadness or Surprised the final label assigned to it was Negative, Neutral was assigned Neutral and Happy was assigned Positive. The performance for these approaches are summarized in a table later.&lt;/p&gt;
+&lt;p&gt;For both of the cases above, if an image was labeled as one of Anger, Disgust, Fear, Sadness or Surprised the final label assigned to it was Negative, Neutral was assigned Neutral and Happy was assigned Positive. The performance for each of the approaches is summarized in a table later.&lt;/p&gt;
 
-&lt;p&gt;We then used the predictions of LHModels to generate heatmaps for our images. The first step was to convert the seven dimensional vectors into three dimensional vectors representing our three categories of interest, &lt;code class=&quot;highlighter-rouge&quot;&gt;Positive&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;Negative&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;Neutral&lt;/code&gt;. We did this by taking the average of Anger, Disgust, Fear, Sadness and Surprised designating it the label &lt;code class=&quot;highlighter-rouge&quot;&gt;Negative&lt;/code&gt;, Happy was given the label &lt;code class=&quot;highlighter-rouge&quot;&gt;Positive&lt;/code&gt;, and Neutral was assigned &lt;code class=&quot;highlighter-rouge&quot;&gt;Neutral&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;We then used the predictions of LHModels to generate heatmaps for our images. The first step was to convert the seven-dimensional vectors into three-dimensional vectors representing our three categories of interest, &lt;code class=&quot;highlighter-rouge&quot;&gt;Positive&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;Negative&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;Neutral&lt;/code&gt;. We did this by taking the average of Anger, Disgust, Fear, Sadness and Surprised designating it the label &lt;code class=&quot;highlighter-rouge&quot;&gt;Negative&lt;/code&gt;, Happy was given the label &lt;code class=&quot;highlighter-rouge&quot;&gt;Positive&lt;/code&gt;, and Neutral was assigned &lt;code class=&quot;highlighter-rouge&quot;&gt;Neutral&lt;/code&gt;.&lt;/p&gt;
 
-&lt;p&gt;After this step, we had a set of three values for every face (one corresponding to each emotion). We used those to create three heatmaps, which, actually, are Gaussian interpolations of those values in a two dimensional space.  The code snippet below creates a two dimensional Gaussian kernel. The height and width of the kernel is same as that of the image in which the face was present. When interpolating, we observed that the values fell quickly as we went away from the center of the heatmap, since the distance increases rapidly. We used a value of 0.1 to make the values decrease gradually over distance (in other words, the effective distance from one pixel to the next was reduced to 1/10&lt;sup&gt;th&lt;/sup&gt; of its original value).&lt;/p&gt;
+&lt;p&gt;After this step, we had a set of three values for every face (one corresponding to each emotion). We used those to create three heatmaps, which, actually, are Gaussian interpolations of those values in a two-dimensional space.  The code snippet below creates a two-dimensional Gaussian kernel. The height and width of the kernel are same as that of the image in which the face was present. When interpolating, we observed that the values fell quickly as we went away from the center of the heatmap, since the distance increases rapidly. We used a value of 0.1 to make the values decrease gradually over distance (in other words, the effective distance from one pixel to the next was reduced to 1/10&lt;sup&gt;th&lt;/sup&gt; of its original value).&lt;/p&gt;
 
 &lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;DISTANCE_SMOOTHING&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;0.1&lt;/span&gt;
 &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;make_gaussian&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;height&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;center&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;None&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;fwhm&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
@@ -127,7 +127,7 @@
 &lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 
-&lt;p&gt;The kernel is then multiplied with the value of the emotion for that face. Let us take the face below as an example:&lt;/p&gt;
+&lt;p&gt;The kernel is then multiplied by the value of the emotion for that face. Let us take the face below as an example:&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/emotiw-17/image_0_0.jpg&quot; alt=&quot;image_0_0&quot; /&gt;&lt;/p&gt;
 
@@ -139,7 +139,7 @@
 
 &lt;p&gt;&lt;img src=&quot;/assets/emotiw-17/image_0_0.jpg_gaussian_pos-crop.png&quot; alt=&quot;image_0_0.jpg_gaussian_pos-crop&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;We, then used the individual heatmaps as channels of an RGB image, with distribution for &lt;code class=&quot;highlighter-rouge&quot;&gt;Negative&lt;/code&gt; emtion  being the red channel and those of &lt;code class=&quot;highlighter-rouge&quot;&gt;Neutral&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;Positive&lt;/code&gt; forming the green and the blue channels respectively. For the face shown above, the final heatmap looks like the image below:&lt;/p&gt;
+&lt;p&gt;We, then used the individual heatmaps as channels of an RGB image, with distribution for &lt;code class=&quot;highlighter-rouge&quot;&gt;Negative&lt;/code&gt; emotion being the red channel and those of &lt;code class=&quot;highlighter-rouge&quot;&gt;Neutral&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;Positive&lt;/code&gt; forming the green and the blue channels respectively. For the face shown above, the final heatmap looks like the image below:&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/emotiw-17/image_0_0.jpg_combined.png&quot; alt=&quot;image_0_0.jpg_combined&quot; /&gt;&lt;/p&gt;
 
@@ -149,7 +149,7 @@
 
 &lt;p&gt;​The image above demonstrates the entire process of converting an image to a heatmap. The final heatmap was then resized and fed to Convolutional Neural Networks. Using this methodology, we achieved a classification accuracy of 56.47% on the validation set. The baseline was 52.79%.&lt;/p&gt;
 
-&lt;p&gt;A table summarizing the performance of the apporaches is given below.&lt;/p&gt;
+&lt;p&gt;A table summarizing the performance of the approaches is given below.&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
