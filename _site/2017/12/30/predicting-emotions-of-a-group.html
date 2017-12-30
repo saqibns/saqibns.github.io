@@ -284,7 +284,11 @@
 
 <p>After this step, we had a set of three values for every face (one corresponding to each emotion). We used those to create three heatmaps, which, actually, are Gaussian interpolations of those values in a two-dimensional space.  The code snippet below creates a two-dimensional Gaussian kernel. The height and width of the kernel are same as that of the image in which the face was present. When interpolating, we observed that the values fell quickly as we went away from the center of the heatmap, since the distance increases rapidly. We used a value of 0.1 to make the values decrease gradually over distance (in other words, the effective distance from one pixel to the next was reduced to 1/10<sup>th</sup> of its original value).</p>
 
-<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">DISTANCE_SMOOTHING</span> <span class="o">=</span> <span class="mf">0.1</span>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="n">np</span>
+
+<span class="n">DISTANCE_SMOOTHING</span> <span class="o">=</span> <span class="mf">0.1</span>
+
+
 <span class="k">def</span> <span class="nf">make_gaussian</span><span class="p">(</span><span class="n">width</span><span class="p">,</span> <span class="n">height</span><span class="p">,</span> <span class="n">center</span><span class="o">=</span><span class="bp">None</span><span class="p">,</span> <span class="n">fwhm</span> <span class="o">=</span> <span class="mi">3</span><span class="p">):</span>
     <span class="s">""" Make a square gaussian kernel.
     fwhm is full-width-half-maximum, which
@@ -300,7 +304,7 @@
     <span class="k">else</span><span class="p">:</span>
         <span class="n">x0</span><span class="p">,</span> <span class="n">y0</span> <span class="o">=</span> <span class="n">center</span>
     
-    <span class="k">return</span> <span class="n">np</span><span class="o">.</span><span class="n">exp</span><span class="p">(</span><span class="o">-</span><span class="mi">4</span><span class="o">*</span><span class="n">np</span><span class="o">.</span><span class="n">log</span><span class="p">(</span><span class="mi">2</span><span class="p">)</span> <span class="o">*</span> <span class="p">((</span><span class="n">DISTANCE_SMOOTHING</span> <span class="o">*</span> <span class="p">(</span><span class="n">x</span><span class="o">-</span><span class="n">x0</span><span class="p">))</span> <span class="o">**</span> <span class="mi">2</span> <span class="o">+</span> <span class="p">(</span><span class="n">DISTANCE_SMOOTHING</span> <span class="o">*</span> <span class="p">(</span><span class="n">y</span><span class="o">-</span><span class="n">y0</span><span class="p">))</span> <span class="o">**</span><span class="mi">2</span><span class="p">)</span> <span class="o">/</span> <span class="n">fwhm</span><span class="o">**</span><span class="mi">2</span><span class="p">)</span>
+    <span class="k">return</span> <span class="n">np</span><span class="o">.</span><span class="n">exp</span><span class="p">(</span><span class="o">-</span><span class="mi">4</span> <span class="o">*</span> <span class="n">np</span><span class="o">.</span><span class="n">log</span><span class="p">(</span><span class="mi">2</span><span class="p">)</span> <span class="o">*</span> <span class="p">((</span><span class="n">DISTANCE_SMOOTHING</span> <span class="o">*</span> <span class="p">(</span><span class="n">x</span><span class="o">-</span><span class="n">x0</span><span class="p">))</span> <span class="o">**</span> <span class="mi">2</span> <span class="o">+</span> <span class="p">(</span><span class="n">DISTANCE_SMOOTHING</span> <span class="o">*</span> <span class="p">(</span><span class="n">y</span><span class="o">-</span><span class="n">y0</span><span class="p">))</span> <span class="o">**</span> <span class="mi">2</span><span class="p">)</span> <span class="o">/</span> <span class="n">fwhm</span> <span class="o">**</span> <span class="mi">2</span><span class="p">)</span>
 </code></pre></div></div>
 
 <p>The kernel is then multiplied by the value of the emotion for that face. Let us take the face below as an example:</p>

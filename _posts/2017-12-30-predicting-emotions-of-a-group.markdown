@@ -52,7 +52,11 @@ We then used the predictions of LHModels to generate heatmaps for our images. Th
 After this step, we had a set of three values for every face (one corresponding to each emotion). We used those to create three heatmaps, which, actually, are Gaussian interpolations of those values in a two-dimensional space.  The code snippet below creates a two-dimensional Gaussian kernel. The height and width of the kernel are same as that of the image in which the face was present. When interpolating, we observed that the values fell quickly as we went away from the center of the heatmap, since the distance increases rapidly. We used a value of 0.1 to make the values decrease gradually over distance (in other words, the effective distance from one pixel to the next was reduced to 1/10<sup>th</sup> of its original value). 
 
 ```python
+import numpy as np
+
 DISTANCE_SMOOTHING = 0.1
+
+
 def make_gaussian(width, height, center=None, fwhm = 3):
     """ Make a square gaussian kernel.
     fwhm is full-width-half-maximum, which
@@ -68,7 +72,7 @@ def make_gaussian(width, height, center=None, fwhm = 3):
     else:
         x0, y0 = center
     
-    return np.exp(-4*np.log(2) * ((DISTANCE_SMOOTHING * (x-x0)) ** 2 + (DISTANCE_SMOOTHING * (y-y0)) **2) / fwhm**2)
+    return np.exp(-4 * np.log(2) * ((DISTANCE_SMOOTHING * (x-x0)) ** 2 + (DISTANCE_SMOOTHING * (y-y0)) ** 2) / fwhm ** 2)
 ```
 
 The kernel is then multiplied by the value of the emotion for that face. Let us take the face below as an example:
