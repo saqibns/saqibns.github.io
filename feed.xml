@@ -5,7 +5,7 @@
   
   <link href="https://saqibns.github.io//feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://saqibns.github.io//" rel="alternate" type="text/html" />
-  <updated>2017-12-30T04:53:19+05:30</updated>
+  <updated>2017-12-30T12:53:31+05:30</updated>
   <id>https://saqibns.github.io///</id>
 
   
@@ -42,7 +42,7 @@
   &lt;li&gt;Audio-Video Emotion Recognition&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;I participated in the former with Bhanu Pratap Singh Rawat and Manya Wadhwa. We were given a dataset which contained photographs of groups of people. The aim of the sub-challenge was to come up with a model that could classify the emotion the group as &lt;code class=&quot;highlighter-rouge&quot;&gt;Positive&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;Negative&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;Neural&lt;/code&gt;. This post describes our approach for the challenge.&lt;/p&gt;
+&lt;p&gt;I participated in the former with &lt;a href=&quot;https://bhanu-mnit.github.io/&quot;&gt;Bhanu Pratap Singh Rawat&lt;/a&gt; and Manya Wadhwa. We were given a dataset which contained photographs of groups of people. The aim of the sub-challenge was to come up with a model that could classify the emotion the group as &lt;code class=&quot;highlighter-rouge&quot;&gt;Positive&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;Negative&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;Neural&lt;/code&gt;. This post describes our approach for the challenge.&lt;/p&gt;
 
 &lt;h2 id=&quot;dataset&quot;&gt;Dataset&lt;/h2&gt;
 
