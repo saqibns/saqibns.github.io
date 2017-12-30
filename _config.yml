@@ -4,7 +4,7 @@ highlighter:      rouge
 
 # Setup
 title:            Saqib's Blog
-tagline:          'blog'
+tagline:          'Home'
 description:      'Trying to get better at things, little by little'
 url:              https://saqibns.github.io/
 baseurl:          # the optional subpath of your site, e.g. "/blog"
