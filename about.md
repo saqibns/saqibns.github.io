@@ -30,4 +30,8 @@ Anime. They have had a lasting impact on me. A lot of characters - Naruto Uzumak
 
 #### How can I get in touch?
 
-You can write to me at \[last-name\]\[first-name\]\[at\]gmail[dot]com
+You can drop me a [mail](mailto:shamsi.saqib@gmail.com) or can use any of the social media channels.
+
+#### What if I want to send an ultra-secret message?
+
+You can get my public key from [keybase](https://keybase.io/saqibns) and can use it to send an encrypted message to me. 
