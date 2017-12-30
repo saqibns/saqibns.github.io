@@ -1,0 +1,51 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Setup
+title:            Saqib's Blog
+tagline:          'blog'
+description:      'Trying to get better at things, little by little'
+url:              https://saqibns.github.io/
+baseurl:          # the optional subpath of your site, e.g. "/blog"
+                  # NB: This applies to all pages in your Jekyll site.
+                  # If you want to move just the blog index pages but keep
+                  # other pages at root, see the paginate_path and
+                  # sidebar_blog_link below.
+
+author:
+  name:           'Saqib Nizam Shamsi'
+  url:            https://twitter.com/saqibns
+
+paginate:         5
+# paginate_path:    '/page:num'
+                    # Or '/blog/page:num' if you want to move your index pages
+
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+  - jemoji
+
+# Custom vars
+sidebar_home_link:  true
+# sidebar_blog_link:  '/blog'   # By default, your home page is your blog
+                                # page. If you change your paginate_path,
+                                # set this to the root of the paginate_path
+                                # to enable a separate blog link.
+github:
+  repo:             https://github.com/saqibns
+
+twitter:
+  handle:             https://twitter.com/saqibns
+
+linkedin:
+  profile:             https://www.linkedin.com/in/snshamsi/
+
+email:
+  address:             mailto:shamsi.saqib@gmail.com
+
+disqus:
+  shortname:             saqibns-github-io
+
+
