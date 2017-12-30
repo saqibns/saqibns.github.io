@@ -10,7 +10,7 @@ tags: vision emotion-detection competition
 - Group Level Emotion Recognition
 - Audio-Video Emotion Recognition
 
-I participated in the former with Bhanu Pratap Singh Rawat and Manya Wadhwa. We were given a dataset which contained photographs of groups of people. The aim of the sub-challenge was to come up with a model that could classify the emotion the group as `Positive`, `Negative` or `Neural`. This post describes our approach for the challenge.
+I participated in the former with [Bhanu Pratap Singh Rawat](https://bhanu-mnit.github.io/) and Manya Wadhwa. We were given a dataset which contained photographs of groups of people. The aim of the sub-challenge was to come up with a model that could classify the emotion the group as `Positive`, `Negative` or `Neural`. This post describes our approach for the challenge.
 
 ## Dataset
 
