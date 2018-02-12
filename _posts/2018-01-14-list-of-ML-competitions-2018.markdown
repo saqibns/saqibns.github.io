@@ -23,25 +23,32 @@ I was looking for a curated list of such competitions but couldn't find any. So,
 
 If you know of any competition that is not on the list, please let me know in the comments or feel free to send a pull request.
 
-| Name                                     | Conference                               | Starts               | Ends          | Website                                  | Sub-<br />Challenges |
-| ---------------------------------------- | ---------------------------------------- | -------------------- | ------------- | ---------------------------------------- | -------------------- |
-| <a name="ntire-cvpr-table"></a>[New Trends in Image Restoration and Enhancement (NTIRE) Challenge](#ntire-cvpr) | [CVPR](http://cvpr2018.thecvf.com/program/workshops) | 10th January         | 27th February | [Link](http://www.vision.ee.ethz.ch/en/ntire18/) | 3                    |
-| <a name="ug2-table"></a>[UG<sup>2</sup> Prize Challenge](#ug2) | [CVPR](http://cvpr2018.thecvf.com/program/workshops) | 15th January         | 2nd April     | [Link](http://www.ug2challenge.org/)     | 2                    |
-| <a name="clic-table"></a>[Challenge on Learned Image Compression (CLIC)](#clic) | [CVPR](http://cvpr2018.thecvf.com/program/workshops) | 24th December, '17   | 22nd April    | [Link](http://www.compression.cc/challenge/) | -                    |
-| <a name="landmark-table"></a>[Large-Scale Landmark Recognition](#landmark) | [CVPR](http://cvpr2018.thecvf.com/program/workshops) | 1st January          | 1st May       | [Link](https://landmarkscvprw18.github.io/) | -                    |
-| <a name="robust-vision-table"></a>[Robust Vision Challenge](#robust-vision) | [CVPR](http://cvpr2018.thecvf.com/program/workshops) | 1st February         | 15th May      | [Link](http://www.robustvision.net/)     | 6                    |
-| <a name="activitynet-table"></a>[ActivityNet Large-Scale Activity Recognition Challenge](#activitynet) | [CVPR](http://cvpr2018.thecvf.com/program/workshops) | 7th December, '17    | TBA           | [Link](http://activity-net.org/challenges/2018/index.html) | 7                    |
-| <a name="kddcup-table"></a>[KDD Cup](#kddcup) | [KDD](http://www.kdd.org/kdd2018/)       | 1st March (Expected) | TBA           | [Link](http://www.kdd.org/News/view/kdd-cup-2018-call-for-proposals) | -                    |
-| <a name="djirobomaster-table"></a>[DJI RoboMaster AI Challenge](#djirobomaster) | [ICRA](http://icra2018.org/)             | TBA                  | TBA           | [Link](http://icra2018.org/dji-robomaster-ai-challenge/) | -                    |
-| <a name="microrobotics-table"></a>[Mobile Microrobotics Challenge](#microrobotics) | [ICRA](http://icra2018.org/)             | TBA                  | TBA           | [Link](http://icra2018.org/mobile-microrobotics-challenge-2018/) | 3                    |
-| <a name="interspeech-table"></a>[Interspeech Computational Paralinguistics ChallengE (ComParE)](#interspeech) | [Interspeech](http://interspeech2018.org/) | TBA                  | TBA           | [Link](http://compare.openaudio.eu/)     | -                    |
-| <a name="aicity-table"></a>[Nvidia AI City Challenge](#aicity) | [CVPR](http://cvpr2018.thecvf.com/program/workshops) | TBA                  | TBA           | [Link](https://www.aicitychallenge.org/) | -                    |
-| <a name="lowpowerir-table"></a>[Low-Power Image Recognition Challenge](#lowpowerir) | [CVPR](http://cvpr2018.thecvf.com/program/workshops) | TBA                  | TBA           | [Link](https://rebootingcomputing.ieee.org/lpirc) | -                    |
-| <a name="lip-table"></a>[The Look Into Person (LIP) Challenge](#lip) | [CVPR](http://cvpr2018.thecvf.com/program/workshops) | TBA                  | TBA           | [Link](https://vuhcs.github.io/)         | -                    |
-| <a name="davis-table"></a>[DAVIS Challenge on Video Object Segmentation](#davis) | [CVPR](http://cvpr2018.thecvf.com/program/workshops) | TBA                  | TBA           | [Link](http://davischallenge.org/challenge2018/) | -                    |
-| <a name="tidyup-table"></a>[Tidy Up My Room Challenge](#tidyup) | [ICRA](http://icra2018.org/)             | TBA                  | TBA           | [Link](http://icra2018.org/tidy-up-my-room-challenge/) | -                    |
+| Name                                     | Conference                               | Starts               | Ends             | Website                                  | Sub-<br />Challenges |
+| ---------------------------------------- | ---------------------------------------- | -------------------- | ---------------- | ---------------------------------------- | -------------------- |
+| <a name="microrobotics-table"></a>[Mobile Microrobotics Challenge](#microrobotics) | [ICRA](http://icra2018.org/)             | 15th December, '17   | 16th February    | [Link](http://icra2018.org/mobile-microrobotics-challenge-2018/) | 3                    |
+| <a name="disguisedfaces-table"></a>[Disguised Faces Workshop Challenge](#disguisedfaces-cvpr) | [CVPR](http://cvpr2018.thecvf.com/program/workshops) | 20th January         | 20th February    | [Link](http://iab-rubric.org/DFW/Competition.html) | -                    |
+| <a name="ntire-cvpr-table"></a>[New Trends in Image Restoration and Enhancement (NTIRE) Challenge](#ntire-cvpr) | [CVPR](http://cvpr2018.thecvf.com/program/workshops) | 10th January         | 27th February    | [Link](http://www.vision.ee.ethz.ch/en/ntire18/) | 3                    |
+| <a name="aicity-table"></a>[Nvidia AI City Challenge](#aicity) | [CVPR](http://cvpr2018.thecvf.com/program/workshops) | 10th December, '17   | 31st March       | [Link](https://www.aicitychallenge.org/) | -                    |
+| <a name="ug2-table"></a>[UG<sup>2</sup> Prize Challenge](#ug2) | [CVPR](http://cvpr2018.thecvf.com/program/workshops) | 15th January         | 2nd April        | [Link](http://www.ug2challenge.org/)     | 2                    |
+| <a name="djirobomaster-table"></a>[DJI RoboMaster AI Challenge](#djirobomaster) | [ICRA](http://icra2018.org/)             | 1st January          | 10th April       | [Link](http://icra2018.org/dji-robomaster-ai-challenge/) | -                    |
+| <a name="clic-table"></a>[Challenge on Learned Image Compression (CLIC)](#clic) | [CVPR](http://cvpr2018.thecvf.com/program/workshops) | 24th December, '17   | 22nd April       | [Link](http://www.compression.cc/challenge/) | -                    |
+| <a name="landmark-table"></a>[Large-Scale Landmark Recognition](#landmark) | [CVPR](http://cvpr2018.thecvf.com/program/workshops) | 1st January          | 1st May          | [Link](https://landmarkscvprw18.github.io/) | -                    |
+| <a name="robust-vision-table"></a>[Robust Vision Challenge](#robust-vision) | [CVPR](http://cvpr2018.thecvf.com/program/workshops) | 1st February         | 15th May         | [Link](http://www.robustvision.net/)     | 6                    |
+| <a name="lip-table"></a>[The Look Into Person (LIP) Challenge](#lip) | [CVPR](http://cvpr2018.thecvf.com/program/workshops) | -                    | 4th June         | [Link](https://vuhcs.github.io/)         | -                    |
+| <a name="lowpowerir-table"></a>[Low-Power Image Recognition Challenge](#lowpowerir) | [CVPR](http://cvpr2018.thecvf.com/program/workshops) | -                    | 18 June (Onsite) | [Link](https://rebootingcomputing.ieee.org/lpirc) | -                    |
+| <a name="davis-table"></a>[DAVIS Challenge on Video Object Segmentation](#davis) | [CVPR](http://cvpr2018.thecvf.com/program/workshops) | 1st April            | 30th June        | [Link](http://davischallenge.org/challenge2018/) | -                    |
+| <a name="hearthstone-table"></a>[Hearthstone AI Competition](#hearthstone) | [CIG](http://www.ieee-cig.org/)          | -                    | 15th July        | [Link](https://dockhorn.antares.uberspace.de/wordpress/) | 2                    |
+| <a name="activitynet-table"></a>[ActivityNet Large-Scale Activity Recognition Challenge](#activitynet) | [CVPR](http://cvpr2018.thecvf.com/program/workshops) | 7th December, '17    | TBA              | [Link](http://activity-net.org/challenges/2018/index.html) | 7                    |
+| <a name="kddcup-table"></a>[KDD Cup](#kddcup) | [KDD](http://www.kdd.org/kdd2018/)       | 1st March (Expected) | TBA              | [Link](http://www.kdd.org/News/view/kdd-cup-2018-call-for-proposals) | -                    |
+| <a name="interspeech-table"></a>[Interspeech Computational Paralinguistics ChallengE (ComParE)](#interspeech) | [Interspeech](http://interspeech2018.org/) | TBA                  | TBA              | [Link](http://compare.openaudio.eu/)     | -                    |
 
 
+
+## <a name="disguisedfaces-cvpr"></a>Disguised Faces Workshop Challenge
+
+> With recent advancements in deep learning, the capabilities of automatic face recognition have been significantly increased. However, face recognition in an unconstrained environment with non-cooperative users is still a research challenge, pertinent for users such as law enforcement agencies. While several covariates such as pose, expression, illumination, aging, and low resolution have received significant attention, “disguise” is still considered an arduous covariate of face recognition.
+
+[Challenge Website](http://iab-rubric.org/DFW/Competition.html) &#124; [Back](#disguisedfaces-table)
 
 ## <a name="ntire-cvpr"></a>New Trends in Image Restoration and Enhancement (NTIRE) Challenge 
 
@@ -84,7 +91,7 @@ If you know of any competition that is not on the list, please let me know in th
 >
 > Can the application of enhancement algorithms as a pre-processing step improve image interpretability for manual analysis or automatic visual recognition to classify scene content?
 >
-> The UG<sup>2</sup> Challenge seeks to answer these important questions for general applications related to computational photography and scene understanding. As a well-defined case study, the challenge aims to advance the analysis of images collected by small UAVs by improving image restoration and enhancement algorithm performance using the UG<sup>2</sup Dataset.
+> The UG<sup>2</sup> Challenge seeks to answer these important questions for general applications related to computational photography and scene understanding. As a well-defined case study, the challenge aims to advance the analysis of images collected by small UAVs by improving image restoration and enhancement algorithm performance using the UG<sup>2</sup> Dataset.
 
 [Challenge Website](http://www.ug2challenge.org/) &#124; [Back](#ug2-table)
 
@@ -191,7 +198,7 @@ If you know of any competition that is not on the list, please let me know in th
 
 >  Developing solutions to comprehensive human visual understanding in the wild scenarios, regarded as one of the most fundamental problems in compute vision, could have a crucial impact in many industrial application domains, such as autonomous driving, virtual reality, video surveillance, human-computer interaction and human behavior analysis. For example, human parsing and pose estimation are often regarded as the very first step for higher-level activity/event recognition and detection. Nonetheless, a large gap seems to exist between what is needed by the real-life applications and what is achievable based on modern computer vision techniques. The goal of this workshop is to allow researchers from the fields of human visual understanding and other disciplines to present their progress, communication and co-develop novel ideas that potentially shape the future of this area and further advance the performance and applicability of correspondingly built systems in real-world conditions.
 >
-> To stimulate the progress on this research topic and attract more talents to work on this topic, we will also provide a first standard human parsing and pose benchmark on a new large-scale Look Into Person (LIP) dataset. This dataset is both larger and more challenging than similar previous ones in the sense that the new dataset contains 50,000 images with elaborated pixel-wise annotations with comprehensive 19 semantic human part labels and 2D human poses with 16 dense key points. The images collected from the real-world scenarios contain humans appearing with challenging poses and views, heavily occlusions, various appearances and low-resolutions. Details on the annotated classes and examples of our annotations are available at this link <http://hcp.sysu.edu.cn/lip/>.
+>  To stimulate the progress on this research topic and attract more talents to work on this topic, we will also provide a first standard human parsing and pose benchmark on a new large-scale Look Into Person (LIP) dataset. This dataset is both larger and more challenging than similar previous ones in the sense that the new dataset contains 50,000 images with elaborated pixel-wise annotations with comprehensive 19 semantic human part labels and 2D human poses with 16 dense key points. The images collected from the real-world scenarios contain humans appearing with challenging poses and views, heavily occlusions, various appearances and low-resolutions. Details on the annotated classes and examples of our annotations are available at this link <http://hcp.sysu.edu.cn/lip/>.
 
 [Challenge Website](https://vuhcs.github.io/) &#124; [Back](#lip-table)
 
@@ -214,5 +221,16 @@ If you know of any competition that is not on the list, please let me know in th
 [Challenge Website](http://icra2018.org/tidy-up-my-room-challenge/) &#124; [Back](#tidyup-table)
 
 
+
+## <a name="hearthstone"></a>Hearthstone AI Competition
+
+> The collectible online card game Hearthstone features a rich testbed and poses unique demands for generating artificial intelligence agents. The game is a turn-based card game between two opponents, using constructed decks of thirty cards along with a selected hero with a unique power. Players use their limited mana crystals to cast spells or summon minions to attack their opponent, with the goal to reduce the opponent’s health to zero. The competition aims to promote the stepwise development of fully autonomous AI agents in the context of Hearthstone.
+>
+> Entrants will submit agents to participate in one of the two tracks:
+>
+> - **Premade Deck Playing”-track**: participants will receive a list of decks and play out all combinations against each other. Determining and using the characteristics of player’s and the opponent’s deck to the player’s advantage will help in winning the game.
+> - **“User Created Deck Playing”-track**: the competition framework allows agents to define their own deck. Finding a deck that can consistently beat a vast amount of other decks will play a key role in this competition track. Additionally, it gives the participants the chance in optimizing the agents’ strategy to the characteristics of their chosen deck.
+
+[Challenge Website](https://dockhorn.antares.uberspace.de/wordpress/) &#124; [Back](#hearthstone-table)
 
 {% include disqus.html %}
