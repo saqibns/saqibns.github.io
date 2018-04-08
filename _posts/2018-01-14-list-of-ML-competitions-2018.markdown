@@ -23,24 +23,25 @@ I was looking for a curated list of such competitions but couldn't find any. So,
 
 If you know of any competition that is not on the list, please let me know in the comments or feel free to send a pull request.
 
-| Name                                     | Conference                               | Starts               | Ends             | Website                                  | Sub-<br />Challenges |
-| ---------------------------------------- | ---------------------------------------- | -------------------- | ---------------- | ---------------------------------------- | -------------------- |
-| <a name="microrobotics-table"></a>[Mobile Microrobotics Challenge](#microrobotics) | [ICRA](http://icra2018.org/)             | 15th December, '17   | 16th February    | [Link](http://icra2018.org/mobile-microrobotics-challenge-2018/) | 3                    |
-| <a name="disguisedfaces-table"></a>[Disguised Faces Workshop Challenge](#disguisedfaces-cvpr) | [CVPR](http://cvpr2018.thecvf.com/program/workshops) | 20th January         | 20th February    | [Link](http://iab-rubric.org/DFW/Competition.html) | -                    |
-| <a name="ntire-cvpr-table"></a>[New Trends in Image Restoration and Enhancement (NTIRE) Challenge](#ntire-cvpr) | [CVPR](http://cvpr2018.thecvf.com/program/workshops) | 10th January         | 27th February    | [Link](http://www.vision.ee.ethz.ch/en/ntire18/) | 3                    |
-| <a name="aicity-table"></a>[Nvidia AI City Challenge](#aicity) | [CVPR](http://cvpr2018.thecvf.com/program/workshops) | 10th December, '17   | 31st March       | [Link](https://www.aicitychallenge.org/) | -                    |
-| <a name="ug2-table"></a>[UG<sup>2</sup> Prize Challenge](#ug2) | [CVPR](http://cvpr2018.thecvf.com/program/workshops) | 15th January         | 2nd April        | [Link](http://www.ug2challenge.org/)     | 2                    |
-| <a name="djirobomaster-table"></a>[DJI RoboMaster AI Challenge](#djirobomaster) | [ICRA](http://icra2018.org/)             | 1st January          | 10th April       | [Link](http://icra2018.org/dji-robomaster-ai-challenge/) | -                    |
-| <a name="clic-table"></a>[Challenge on Learned Image Compression (CLIC)](#clic) | [CVPR](http://cvpr2018.thecvf.com/program/workshops) | 24th December, '17   | 22nd April       | [Link](http://www.compression.cc/challenge/) | -                    |
-| <a name="landmark-table"></a>[Large-Scale Landmark Recognition](#landmark) | [CVPR](http://cvpr2018.thecvf.com/program/workshops) | 1st January          | 1st May          | [Link](https://landmarkscvprw18.github.io/) | -                    |
-| <a name="robust-vision-table"></a>[Robust Vision Challenge](#robust-vision) | [CVPR](http://cvpr2018.thecvf.com/program/workshops) | 1st February         | 15th May         | [Link](http://www.robustvision.net/)     | 6                    |
-| <a name="lip-table"></a>[The Look Into Person (LIP) Challenge](#lip) | [CVPR](http://cvpr2018.thecvf.com/program/workshops) | -                    | 4th June         | [Link](https://vuhcs.github.io/)         | -                    |
-| <a name="lowpowerir-table"></a>[Low-Power Image Recognition Challenge](#lowpowerir) | [CVPR](http://cvpr2018.thecvf.com/program/workshops) | -                    | 18 June (Onsite) | [Link](https://rebootingcomputing.ieee.org/lpirc) | -                    |
-| <a name="davis-table"></a>[DAVIS Challenge on Video Object Segmentation](#davis) | [CVPR](http://cvpr2018.thecvf.com/program/workshops) | 1st April            | 30th June        | [Link](http://davischallenge.org/challenge2018/) | -                    |
-| <a name="hearthstone-table"></a>[Hearthstone AI Competition](#hearthstone) | [CIG](http://www.ieee-cig.org/)          | -                    | 15th July        | [Link](https://dockhorn.antares.uberspace.de/wordpress/) | 2                    |
-| <a name="activitynet-table"></a>[ActivityNet Large-Scale Activity Recognition Challenge](#activitynet) | [CVPR](http://cvpr2018.thecvf.com/program/workshops) | 7th December, '17    | TBA              | [Link](http://activity-net.org/challenges/2018/index.html) | 7                    |
-| <a name="kddcup-table"></a>[KDD Cup](#kddcup) | [KDD](http://www.kdd.org/kdd2018/)       | 1st March (Expected) | TBA              | [Link](http://www.kdd.org/News/view/kdd-cup-2018-call-for-proposals) | -                    |
-| <a name="interspeech-table"></a>[Interspeech Computational Paralinguistics ChallengE (ComParE)](#interspeech) | [Interspeech](http://interspeech2018.org/) | TBA                  | TBA              | [Link](http://compare.openaudio.eu/)     | -                    |
+| Name                                     | Conference                               | Starts                 | Ends                | Website                                  | Sub-<br />Challenges |
+| ---------------------------------------- | ---------------------------------------- | ---------------------- | ------------------- | ---------------------------------------- | -------------------- |
+| ~~<a name="microrobotics-table"></a>[Mobile Microrobotics Challenge](#microrobotics)~~ | ~~[ICRA](http://icra2018.org/)~~         | ~~15th December, '17~~ | ~~16th February~~   | ~~[Link](http://icra2018.org/mobile-microrobotics-challenge-2018/)~~ | ~~03~~               |
+| ~~<a name="disguisedfaces-table"></a>[Disguised Faces Workshop Challenge](#disguisedfaces-cvpr)~~ | ~~[CVPR](http://cvpr2018.thecvf.com/program/workshops)~~ | ~~20th January~~       | ~~20th February~~   | ~~[Link](http://iab-rubric.org/DFW/Competition.html)~~ | -                |
+| ~~<a name="ntire-cvpr-table"></a>[New Trends in Image Restoration and Enhancement (NTIRE) Challenge](#ntire-cvpr)~~ | ~~[CVPR](http://cvpr2018.thecvf.com/program/workshops)~~ | ~~10th January~~       | ~~27th February~~   | ~~[Link](http://www.vision.ee.ethz.ch/en/ntire18/)~~ | ~~03~~                |
+| ~~<a name="interspeech-table"></a>[Interspeech Computational Paralinguistics ChallengE (ComParE)](#interspeech)~~ | ~~[Interspeech](http://interspeech2018.org/)~~ | -                  | ~~16th March 2018~~ | ~~[Link](http://emotion-research.net/workshops_folder/workshop.2018-02-12.9681548687)~~ | -                |
+| ~~<a name="aicity-table"></a>[Nvidia AI City Challenge](#aicity)~~ | ~~[CVPR](http://cvpr2018.thecvf.com/program/workshops)~~ | ~~10th December, '17~~ | ~~31st March~~      | ~~[Link](https://www.aicitychallenge.org/)~~ | -                |
+| ~~<a name="ug2-table"></a>[UG<sup>2</sup> Prize Challenge](#ug2)~~ | ~~[CVPR](http://cvpr2018.thecvf.com/program/workshops)~~ | ~~15th January~~       | ~~2nd April~~       | ~~[Link](http://www.ug2challenge.org/)~~ | ~~02~~                |
+| <a name="djirobomaster-table"></a>[DJI RoboMaster AI Challenge](#djirobomaster) | [ICRA](http://icra2018.org/)             | 1st January            | 10th April          | [Link](http://icra2018.org/dji-robomaster-ai-challenge/) | -                    |
+| <a name="clic-table"></a>[Challenge on Learned Image Compression (CLIC)](#clic) | [CVPR](http://cvpr2018.thecvf.com/program/workshops) | 24th December, '17     | 22nd April          | [Link](http://www.compression.cc/challenge/) | -                    |
+| <a name="landmark-table"></a>[Large-Scale Landmark Recognition](#landmark) | [CVPR](http://cvpr2018.thecvf.com/program/workshops) | 1st January            | 1st May             | [Link](https://landmarkscvprw18.github.io/) | -                    |
+| <a name="robust-vision-table"></a>[Robust Vision Challenge](#robust-vision) | [CVPR](http://cvpr2018.thecvf.com/program/workshops) | 1st February           | 15th May            | [Link](http://www.robustvision.net/)     | 06                    |
+| <a name="eat-table"></a>[ICMI 2018 EAT](#eat) | [ICMI](https://icmi.acm.org/2018/index.php?id=challenges) | 4th April              | 29th May            | [Link](https://icmi-eat.ihearu-play.eu/) | 03                    |
+| <a name="kddcup-table"></a>[KDD Cup](#kddcup) | [KDD](http://www.kdd.org/kdd2018/)       | 15th March             | 31st May            | [Link](https://biendata.com/competition/kdd_2018/) | -                    |
+| <a name="lip-table"></a>[The Look Into Person (LIP) Challenge](#lip) | [CVPR](http://cvpr2018.thecvf.com/program/workshops) | -                      | 4th June            | [Link](https://vuhcs.github.io/)         | -                    |
+| <a name="lowpowerir-table"></a>[Low-Power Image Recognition Challenge](#lowpowerir) | [CVPR](http://cvpr2018.thecvf.com/program/workshops) | -                      | 18 June (Onsite)    | [Link](https://rebootingcomputing.ieee.org/lpirc) | -                    |
+| <a name="davis-table"></a>[DAVIS Challenge on Video Object Segmentation](#davis) | [CVPR](http://cvpr2018.thecvf.com/program/workshops) | 1st April              | 30th June           | [Link](http://davischallenge.org/challenge2018/) | -                    |
+| <a name="hearthstone-table"></a>[Hearthstone AI Competition](#hearthstone) | [CIG](http://www.ieee-cig.org/)          | -                      | 15th July           | [Link](https://dockhorn.antares.uberspace.de/wordpress/) | 02                    |
+| <a name="activitynet-table"></a>[ActivityNet Large-Scale Activity Recognition Challenge](#activitynet) | [CVPR](http://cvpr2018.thecvf.com/program/workshops) | 7th December, '17      | TBA                 | [Link](http://activity-net.org/challenges/2018/index.html) | 07                    |
 
 
 
@@ -138,7 +139,7 @@ If you know of any competition that is not on the list, please let me know in th
 
 > SIGKDD-2018 will take place in London, UK in August 2018. The KDD Cup competition is anticipated to last for 2-4 months, and the winners will be notified by mid-June. The winners will be honored at the KDD conference opening ceremony and will present their solutions at the KDD Cup workshop during the conference. The winners are expected to be monetarily rewarded, with the first prize being in the ballpark of ten thousand dollars.
 
-[Challenge Website](http://www.kdd.org/News/view/kdd-cup-2018-call-for-proposals) &#124; [Back](#kddcup-table)
+[Challenge Website](https://biendata.com/competition/kdd_2018/) &#124; [Back](#kddcup-table)
 
 
 
@@ -232,5 +233,17 @@ If you know of any competition that is not on the list, please let me know in th
 > - **“User Created Deck Playing”-track**: the competition framework allows agents to define their own deck. Finding a deck that can consistently beat a vast amount of other decks will play a key role in this competition track. Additionally, it gives the participants the chance in optimizing the agents’ strategy to the characteristics of their chosen deck.
 
 [Challenge Website](https://dockhorn.antares.uberspace.de/wordpress/) &#124; [Back](#hearthstone-table)
+
+# <a name="eat"></a>ICMI Eating Analysis and Tracking Challenge
+
+> The multimodal recognition of eating condition - whether a person is eating or not - and if yes, which food type, is a new research domain in the area of speech and video processing that has many promising applications for future multimodal interfaces such as: adapting speech recognition or lip reading systems to different eating conditions (e.g. dictation systems), health (e.g. ingestive behaviour), or security monitoring (e.g., when eating is not allowed). 
+>
+> - We define three Sub-Challenges based on classification tasks in which participants are encouraged to use speech and/or video recordings:
+>
+> - 1. **Food-type Sub-Challenge**: Perform seven-class food classification per utterance
+>   2. **Food-likability Sub-Challenge**: Recognize the subjects' food likability rating
+>   3. **Chew and Speak Sub-Challenge**: Recognize the level of difficulty to speak while eating
+
+[Challenge Website](https://icmi-eat.ihearu-play.eu/) &#124; [Back](#eat-table)
 
 {% include disqus.html %}

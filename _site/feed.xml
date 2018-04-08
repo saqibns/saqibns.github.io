@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-02-12T17:22:15+05:30</updated><id>http://localhost:4000/</id><title type="html">Saqib’s Blog</title><subtitle>Trying to get better at things, little by little</subtitle><author><name>Saqib Nizam Shamsi</name></author><entry><title type="html">A List of Machine Learning Challenges in 2018</title><link href="http://localhost:4000/2018/01/14/list-of-ML-competitions-2018.html" rel="alternate" type="text/html" title="A List of Machine Learning Challenges in 2018" /><published>2018-01-14T00:00:00+05:30</published><updated>2018-01-14T12:25:36+05:30</updated><id>http://localhost:4000/2018/01/14/list-of-ML-competitions-2018</id><content type="html" xml:base="http://localhost:4000/2018/01/14/list-of-ML-competitions-2018.html">&lt;p&gt;Competitions are a great way to excel in machine learning. They offer various advantages in addtion to gaining knowledge and developing your skillset.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-04-08T22:56:55+05:30</updated><id>http://localhost:4000/</id><title type="html">Saqib’s Blog</title><subtitle>Trying to get better at things, little by little</subtitle><author><name>Saqib Nizam Shamsi</name></author><entry><title type="html">A List of Machine Learning Challenges in 2018</title><link href="http://localhost:4000/2018/01/14/list-of-ML-competitions-2018.html" rel="alternate" type="text/html" title="A List of Machine Learning Challenges in 2018" /><published>2018-01-14T00:00:00+05:30</published><updated>2018-01-14T12:25:36+05:30</updated><id>http://localhost:4000/2018/01/14/list-of-ML-competitions-2018</id><content type="html" xml:base="http://localhost:4000/2018/01/14/list-of-ML-competitions-2018.html">&lt;p&gt;Competitions are a great way to excel in machine learning. They offer various advantages in addtion to gaining knowledge and developing your skillset.&lt;/p&gt;
 
 &lt;p&gt;The problems and goals are very welll defined. This saves you from the hassle of coming up with a problem, defining the goals rigorously, which are both achievable and non-trivial. You are also provided with data, which in most cases is ready for use. Someone has already done the painstaking work of collecting, preprocessing and organizing data. If it’s a competition on supervised learning, you also get labels for the data.&lt;/p&gt;
 
@@ -25,44 +25,52 @@
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;a name=&quot;microrobotics-table&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#microrobotics&quot;&gt;Mobile Microrobotics Challenge&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;http://icra2018.org/&quot;&gt;ICRA&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;15th December, ‘17&lt;/td&gt;
-      &lt;td&gt;16th February&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;http://icra2018.org/mobile-microrobotics-challenge-2018/&quot;&gt;Link&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;&lt;a name=&quot;microrobotics-table&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#microrobotics&quot;&gt;Mobile Microrobotics Challenge&lt;/a&gt;&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;&lt;a href=&quot;http://icra2018.org/&quot;&gt;ICRA&lt;/a&gt;&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;15th December, ‘17&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;16th February&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;&lt;a href=&quot;http://icra2018.org/mobile-microrobotics-challenge-2018/&quot;&gt;Link&lt;/a&gt;&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;03&lt;/del&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;a name=&quot;disguisedfaces-table&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#disguisedfaces-cvpr&quot;&gt;Disguised Faces Workshop Challenge&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;http://cvpr2018.thecvf.com/program/workshops&quot;&gt;CVPR&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;20th January&lt;/td&gt;
-      &lt;td&gt;20th February&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;http://iab-rubric.org/DFW/Competition.html&quot;&gt;Link&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;&lt;a name=&quot;disguisedfaces-table&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#disguisedfaces-cvpr&quot;&gt;Disguised Faces Workshop Challenge&lt;/a&gt;&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;&lt;a href=&quot;http://cvpr2018.thecvf.com/program/workshops&quot;&gt;CVPR&lt;/a&gt;&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;20th January&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;20th February&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;&lt;a href=&quot;http://iab-rubric.org/DFW/Competition.html&quot;&gt;Link&lt;/a&gt;&lt;/del&gt;&lt;/td&gt;
       &lt;td&gt;-&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;a name=&quot;ntire-cvpr-table&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#ntire-cvpr&quot;&gt;New Trends in Image Restoration and Enhancement (NTIRE) Challenge&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;http://cvpr2018.thecvf.com/program/workshops&quot;&gt;CVPR&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;10th January&lt;/td&gt;
-      &lt;td&gt;27th February&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;http://www.vision.ee.ethz.ch/en/ntire18/&quot;&gt;Link&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;&lt;a name=&quot;ntire-cvpr-table&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#ntire-cvpr&quot;&gt;New Trends in Image Restoration and Enhancement (NTIRE) Challenge&lt;/a&gt;&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;&lt;a href=&quot;http://cvpr2018.thecvf.com/program/workshops&quot;&gt;CVPR&lt;/a&gt;&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;10th January&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;27th February&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;&lt;a href=&quot;http://www.vision.ee.ethz.ch/en/ntire18/&quot;&gt;Link&lt;/a&gt;&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;03&lt;/del&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;a name=&quot;aicity-table&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#aicity&quot;&gt;Nvidia AI City Challenge&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;http://cvpr2018.thecvf.com/program/workshops&quot;&gt;CVPR&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;10th December, ‘17&lt;/td&gt;
-      &lt;td&gt;31st March&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;https://www.aicitychallenge.org/&quot;&gt;Link&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;&lt;a name=&quot;interspeech-table&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#interspeech&quot;&gt;Interspeech Computational Paralinguistics ChallengE (ComParE)&lt;/a&gt;&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;&lt;a href=&quot;http://interspeech2018.org/&quot;&gt;Interspeech&lt;/a&gt;&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;-&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;16th March 2018&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;&lt;a href=&quot;http://emotion-research.net/workshops_folder/workshop.2018-02-12.9681548687&quot;&gt;Link&lt;/a&gt;&lt;/del&gt;&lt;/td&gt;
       &lt;td&gt;-&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;a name=&quot;ug2-table&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#ug2&quot;&gt;UG&lt;sup&gt;2&lt;/sup&gt; Prize Challenge&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;http://cvpr2018.thecvf.com/program/workshops&quot;&gt;CVPR&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;15th January&lt;/td&gt;
-      &lt;td&gt;2nd April&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;http://www.ug2challenge.org/&quot;&gt;Link&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;&lt;a name=&quot;aicity-table&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#aicity&quot;&gt;Nvidia AI City Challenge&lt;/a&gt;&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;&lt;a href=&quot;http://cvpr2018.thecvf.com/program/workshops&quot;&gt;CVPR&lt;/a&gt;&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;10th December, ‘17&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;31st March&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;&lt;a href=&quot;https://www.aicitychallenge.org/&quot;&gt;Link&lt;/a&gt;&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;-&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;del&gt;&lt;a name=&quot;ug2-table&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#ug2&quot;&gt;UG&lt;sup&gt;2&lt;/sup&gt; Prize Challenge&lt;/a&gt;&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;&lt;a href=&quot;http://cvpr2018.thecvf.com/program/workshops&quot;&gt;CVPR&lt;/a&gt;&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;15th January&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;2nd April&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;&lt;a href=&quot;http://www.ug2challenge.org/&quot;&gt;Link&lt;/a&gt;&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;02&lt;/del&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;a name=&quot;djirobomaster-table&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#djirobomaster&quot;&gt;DJI RoboMaster AI Challenge&lt;/a&gt;&lt;/td&gt;
@@ -94,7 +102,23 @@
       &lt;td&gt;1st February&lt;/td&gt;
       &lt;td&gt;15th May&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;http://www.robustvision.net/&quot;&gt;Link&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;6&lt;/td&gt;
+      &lt;td&gt;06&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a name=&quot;eat-table&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#eat&quot;&gt;ICMI 2018 EAT&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://icmi.acm.org/2018/index.php?id=challenges&quot;&gt;ICMI&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;4th April&lt;/td&gt;
+      &lt;td&gt;29th May&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://icmi-eat.ihearu-play.eu/&quot;&gt;Link&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;03&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a name=&quot;kddcup-table&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#kddcup&quot;&gt;KDD Cup&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;http://www.kdd.org/kdd2018/&quot;&gt;KDD&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;15th March&lt;/td&gt;
+      &lt;td&gt;31st May&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://biendata.com/competition/kdd_2018/&quot;&gt;Link&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;-&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;a name=&quot;lip-table&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#lip&quot;&gt;The Look Into Person (LIP) Challenge&lt;/a&gt;&lt;/td&gt;
@@ -126,7 +150,7 @@
       &lt;td&gt;-&lt;/td&gt;
       &lt;td&gt;15th July&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;https://dockhorn.antares.uberspace.de/wordpress/&quot;&gt;Link&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;02&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;a name=&quot;activitynet-table&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#activitynet&quot;&gt;ActivityNet Large-Scale Activity Recognition Challenge&lt;/a&gt;&lt;/td&gt;
@@ -134,23 +158,7 @@
       &lt;td&gt;7th December, ‘17&lt;/td&gt;
       &lt;td&gt;TBA&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;http://activity-net.org/challenges/2018/index.html&quot;&gt;Link&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;7&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;a name=&quot;kddcup-table&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#kddcup&quot;&gt;KDD Cup&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;http://www.kdd.org/kdd2018/&quot;&gt;KDD&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;1st March (Expected)&lt;/td&gt;
-      &lt;td&gt;TBA&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;http://www.kdd.org/News/view/kdd-cup-2018-call-for-proposals&quot;&gt;Link&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;-&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;a name=&quot;interspeech-table&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#interspeech&quot;&gt;Interspeech Computational Paralinguistics ChallengE (ComParE)&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;http://interspeech2018.org/&quot;&gt;Interspeech&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;TBA&lt;/td&gt;
-      &lt;td&gt;TBA&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;http://compare.openaudio.eu/&quot;&gt;Link&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;-&lt;/td&gt;
+      &lt;td&gt;07&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -252,7 +260,7 @@ We propose hosting an image-compression challenge which specifically targets met
   &lt;p&gt;SIGKDD-2018 will take place in London, UK in August 2018. The KDD Cup competition is anticipated to last for 2-4 months, and the winners will be notified by mid-June. The winners will be honored at the KDD conference opening ceremony and will present their solutions at the KDD Cup workshop during the conference. The winners are expected to be monetarily rewarded, with the first prize being in the ballpark of ten thousand dollars.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://www.kdd.org/News/view/kdd-cup-2018-call-for-proposals&quot;&gt;Challenge Website&lt;/a&gt; | &lt;a href=&quot;#kddcup-table&quot;&gt;Back&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://biendata.com/competition/kdd_2018/&quot;&gt;Challenge Website&lt;/a&gt; | &lt;a href=&quot;#kddcup-table&quot;&gt;Back&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;dji-robomaster-ai-challenge&quot;&gt;&lt;a name=&quot;djirobomaster&quot;&gt;&lt;/a&gt;DJI RoboMaster AI Challenge&lt;/h2&gt;
 
@@ -352,6 +360,27 @@ We propose hosting an image-compression challenge which specifically targets met
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://dockhorn.antares.uberspace.de/wordpress/&quot;&gt;Challenge Website&lt;/a&gt; | &lt;a href=&quot;#hearthstone-table&quot;&gt;Back&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;icmi-eating-analysis-and-tracking-challenge&quot;&gt;&lt;a name=&quot;eat&quot;&gt;&lt;/a&gt;ICMI Eating Analysis and Tracking Challenge&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The multimodal recognition of eating condition - whether a person is eating or not - and if yes, which food type, is a new research domain in the area of speech and video processing that has many promising applications for future multimodal interfaces such as: adapting speech recognition or lip reading systems to different eating conditions (e.g. dictation systems), health (e.g. ingestive behaviour), or security monitoring (e.g., when eating is not allowed).&lt;/p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;
+      &lt;p&gt;We define three Sub-Challenges based on classification tasks in which participants are encouraged to use speech and/or video recordings:&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      &lt;ol&gt;
+        &lt;li&gt;&lt;strong&gt;Food-type Sub-Challenge&lt;/strong&gt;: Perform seven-class food classification per utterance&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Food-likability Sub-Challenge&lt;/strong&gt;: Recognize the subjects’ food likability rating&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Chew and Speak Sub-Challenge&lt;/strong&gt;: Recognize the level of difficulty to speak while eating&lt;/li&gt;
+      &lt;/ol&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://icmi-eat.ihearu-play.eu/&quot;&gt;Challenge Website&lt;/a&gt; | &lt;a href=&quot;#eat-table&quot;&gt;Back&lt;/a&gt;&lt;/p&gt;
 
 &lt;div id=&quot;disqus_thread&quot;&gt;
     &lt;button class=&quot;disqus-load&quot; onclick=&quot;loadDisqusComments()&quot;&gt;
