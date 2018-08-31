@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-04-08T22:56:55+05:30</updated><id>http://localhost:4000/</id><title type="html">Saqib’s Blog</title><subtitle>Trying to get better at things, little by little</subtitle><author><name>Saqib Nizam Shamsi</name></author><entry><title type="html">A List of Machine Learning Challenges in 2018</title><link href="http://localhost:4000/2018/01/14/list-of-ML-competitions-2018.html" rel="alternate" type="text/html" title="A List of Machine Learning Challenges in 2018" /><published>2018-01-14T00:00:00+05:30</published><updated>2018-01-14T12:25:36+05:30</updated><id>http://localhost:4000/2018/01/14/list-of-ML-competitions-2018</id><content type="html" xml:base="http://localhost:4000/2018/01/14/list-of-ML-competitions-2018.html">&lt;p&gt;Competitions are a great way to excel in machine learning. They offer various advantages in addtion to gaining knowledge and developing your skillset.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-08-31T08:26:30+05:30</updated><id>http://localhost:4000/</id><title type="html">Saqib’s Blog</title><subtitle>Trying to get better at things, little by little</subtitle><author><name>Saqib Nizam Shamsi</name></author><entry><title type="html">A List of Machine Learning Challenges in 2018</title><link href="http://localhost:4000/2018/01/14/list-of-ML-competitions-2018.html" rel="alternate" type="text/html" title="A List of Machine Learning Challenges in 2018" /><published>2018-01-14T00:00:00+05:30</published><updated>2018-01-14T12:25:36+05:30</updated><id>http://localhost:4000/2018/01/14/list-of-ML-competitions-2018</id><content type="html" xml:base="http://localhost:4000/2018/01/14/list-of-ML-competitions-2018.html">&lt;p&gt;Competitions are a great way to excel in machine learning. They offer various advantages in addtion to gaining knowledge and developing your skillset.&lt;/p&gt;
 
 &lt;p&gt;The problems and goals are very welll defined. This saves you from the hassle of coming up with a problem, defining the goals rigorously, which are both achievable and non-trivial. You are also provided with data, which in most cases is ready for use. Someone has already done the painstaking work of collecting, preprocessing and organizing data. If it’s a competition on supervised learning, you also get labels for the data.&lt;/p&gt;
 
@@ -52,7 +52,7 @@
       &lt;td&gt;&lt;del&gt;&lt;a name=&quot;interspeech-table&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#interspeech&quot;&gt;Interspeech Computational Paralinguistics ChallengE (ComParE)&lt;/a&gt;&lt;/del&gt;&lt;/td&gt;
       &lt;td&gt;&lt;del&gt;&lt;a href=&quot;http://interspeech2018.org/&quot;&gt;Interspeech&lt;/a&gt;&lt;/del&gt;&lt;/td&gt;
       &lt;td&gt;-&lt;/td&gt;
-      &lt;td&gt;&lt;del&gt;16th March 2018&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;16th March&lt;/del&gt;&lt;/td&gt;
       &lt;td&gt;&lt;del&gt;&lt;a href=&quot;http://emotion-research.net/workshops_folder/workshop.2018-02-12.9681548687&quot;&gt;Link&lt;/a&gt;&lt;/del&gt;&lt;/td&gt;
       &lt;td&gt;-&lt;/td&gt;
     &lt;/tr&gt;
@@ -73,92 +73,164 @@
       &lt;td&gt;&lt;del&gt;02&lt;/del&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;a name=&quot;djirobomaster-table&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#djirobomaster&quot;&gt;DJI RoboMaster AI Challenge&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;http://icra2018.org/&quot;&gt;ICRA&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;1st January&lt;/td&gt;
-      &lt;td&gt;10th April&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;http://icra2018.org/dji-robomaster-ai-challenge/&quot;&gt;Link&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;&lt;a name=&quot;djirobomaster-table&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#djirobomaster&quot;&gt;DJI RoboMaster AI Challenge&lt;/a&gt;&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;&lt;a href=&quot;http://icra2018.org/&quot;&gt;ICRA&lt;/a&gt;&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;1st January&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;10th April&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;&lt;a href=&quot;http://icra2018.org/dji-robomaster-ai-challenge/&quot;&gt;Link&lt;/a&gt;&lt;/del&gt;&lt;/td&gt;
       &lt;td&gt;-&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;a name=&quot;clic-table&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#clic&quot;&gt;Challenge on Learned Image Compression (CLIC)&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;http://cvpr2018.thecvf.com/program/workshops&quot;&gt;CVPR&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;24th December, ‘17&lt;/td&gt;
-      &lt;td&gt;22nd April&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;http://www.compression.cc/challenge/&quot;&gt;Link&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;&lt;a name=&quot;clic-table&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#clic&quot;&gt;Challenge on Learned Image Compression (CLIC)&lt;/a&gt;&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;&lt;a href=&quot;http://cvpr2018.thecvf.com/program/workshops&quot;&gt;CVPR&lt;/a&gt;&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;24th December, ‘17&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;22nd April&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;&lt;a href=&quot;http://www.compression.cc/challenge/&quot;&gt;Link&lt;/a&gt;&lt;/del&gt;&lt;/td&gt;
       &lt;td&gt;-&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;a name=&quot;landmark-table&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#landmark&quot;&gt;Large-Scale Landmark Recognition&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;http://cvpr2018.thecvf.com/program/workshops&quot;&gt;CVPR&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;1st January&lt;/td&gt;
-      &lt;td&gt;1st May&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;https://landmarkscvprw18.github.io/&quot;&gt;Link&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;&lt;a name=&quot;landmark-table&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#landmark&quot;&gt;Large-Scale Landmark Recognition&lt;/a&gt;&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;&lt;a href=&quot;http://cvpr2018.thecvf.com/program/workshops&quot;&gt;CVPR&lt;/a&gt;&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;1st January&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;1st May&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;&lt;a href=&quot;https://landmarkscvprw18.github.io/&quot;&gt;Link&lt;/a&gt;&lt;/del&gt;&lt;/td&gt;
       &lt;td&gt;-&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;a name=&quot;robust-vision-table&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#robust-vision&quot;&gt;Robust Vision Challenge&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;http://cvpr2018.thecvf.com/program/workshops&quot;&gt;CVPR&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;1st February&lt;/td&gt;
-      &lt;td&gt;15th May&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;http://www.robustvision.net/&quot;&gt;Link&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;06&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;&lt;a name=&quot;robust-vision-table&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#robust-vision&quot;&gt;Robust Vision Challenge&lt;/a&gt;&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;&lt;a href=&quot;http://cvpr2018.thecvf.com/program/workshops&quot;&gt;CVPR&lt;/a&gt;&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;1st February&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;15th May&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;&lt;a href=&quot;http://www.robustvision.net/&quot;&gt;Link&lt;/a&gt;&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;06&lt;/del&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;a name=&quot;eat-table&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#eat&quot;&gt;ICMI 2018 EAT&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;https://icmi.acm.org/2018/index.php?id=challenges&quot;&gt;ICMI&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;4th April&lt;/td&gt;
-      &lt;td&gt;29th May&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;https://icmi-eat.ihearu-play.eu/&quot;&gt;Link&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;&lt;a name=&quot;eat-table&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#eat&quot;&gt;ICMI 2018 EAT&lt;/a&gt;&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;&lt;a href=&quot;https://icmi.acm.org/2018/index.php?id=challenges&quot;&gt;ICMI&lt;/a&gt;&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;4th April&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;29th May&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;&lt;a href=&quot;https://icmi-eat.ihearu-play.eu/&quot;&gt;Link&lt;/a&gt;&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;03&lt;/del&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;del&gt;&lt;a name=&quot;kddcup-table&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#kddcup&quot;&gt;KDD Cup&lt;/a&gt;&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;&lt;a href=&quot;http://www.kdd.org/kdd2018/&quot;&gt;KDD&lt;/a&gt;&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;15th March&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;31st May&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;&lt;a href=&quot;https://biendata.com/competition/kdd_2018/&quot;&gt;Link&lt;/a&gt;&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;-&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;del&gt;&lt;a name=&quot;lip-table&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#lip&quot;&gt;The Look Into Person (LIP) Challenge&lt;/a&gt;&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;&lt;a href=&quot;http://cvpr2018.thecvf.com/program/workshops&quot;&gt;CVPR&lt;/a&gt;&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;-&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;4th June&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;&lt;a href=&quot;https://vuhcs.github.io/&quot;&gt;Link&lt;/a&gt;&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;05&lt;/del&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;del&gt;&lt;a name=&quot;activitynet-table&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#activitynet&quot;&gt;ActivityNet Large-Scale Activity Recognition Challenge&lt;/a&gt;&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;&lt;a href=&quot;http://cvpr2018.thecvf.com/program/workshops&quot;&gt;CVPR&lt;/a&gt;&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;7th December, ‘17&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;8th June&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;&lt;a href=&quot;http://activity-net.org/challenges/2018/index.html&quot;&gt;Link&lt;/a&gt;&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;07&lt;/del&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;del&gt;&lt;a name=&quot;lowpowerir-table&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#lowpowerir&quot;&gt;Low-Power Image Recognition Challenge&lt;/a&gt;&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;&lt;a href=&quot;http://cvpr2018.thecvf.com/program/workshops&quot;&gt;CVPR&lt;/a&gt;&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;-&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;18 June (Onsite)&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;&lt;a href=&quot;https://rebootingcomputing.ieee.org/lpirc&quot;&gt;Link&lt;/a&gt;&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;-&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;del&gt;&lt;a name=&quot;davis-table&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#davis&quot;&gt;DAVIS Challenge on Video Object Segmentation&lt;/a&gt;&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;&lt;a href=&quot;http://cvpr2018.thecvf.com/program/workshops&quot;&gt;CVPR&lt;/a&gt;&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;1st April&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;30th June&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;&lt;a href=&quot;http://davischallenge.org/challenge2018/&quot;&gt;Link&lt;/a&gt;&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;-&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;del&gt;&lt;a name=&quot;hearthstone-table&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#hearthstone&quot;&gt;Hearthstone AI Competition&lt;/a&gt;&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;&lt;a href=&quot;http://www.ieee-cig.org/&quot;&gt;CIG&lt;/a&gt;&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;-&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;15th July&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;&lt;a href=&quot;https://dockhorn.antares.uberspace.de/wordpress/&quot;&gt;Link&lt;/a&gt;&lt;/del&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;02&lt;/del&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a name=&quot;prosthetics-table&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#prosthetics&quot;&gt;AI for Prosthetics&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://nips.cc/&quot;&gt;NIPS&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;1st June&lt;/td&gt;
+      &lt;td&gt;30th Sep&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.crowdai.org/challenges/nips-2018-ai-for-prosthetics-challenge&quot;&gt;Link&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;-&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a name=&quot;convai2-table&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#convai2&quot;&gt;ConvAI2&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://nips.cc/&quot;&gt;NIPS&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;21st Mar&lt;/td&gt;
+      &lt;td&gt;10th Oct&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;http://convai.io/&quot;&gt;Link&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;-&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a name=&quot;adversarial-vision-table&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#adversarial-vision&quot;&gt;Adversarial Vision Challenge&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://nips.cc/&quot;&gt;NIPS&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;2nd July&lt;/td&gt;
+      &lt;td&gt;10th Oct&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.crowdai.org/challenges/nips-2018-adversarial-vision-challenge-robust-model-track/&quot;&gt;Link&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;03&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;a name=&quot;kddcup-table&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#kddcup&quot;&gt;KDD Cup&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;http://www.kdd.org/kdd2018/&quot;&gt;KDD&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;15th March&lt;/td&gt;
-      &lt;td&gt;31st May&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;https://biendata.com/competition/kdd_2018/&quot;&gt;Link&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a name=&quot;particle-tracking-table&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#particle-tracking&quot;&gt;TrackML: Particle Tracking Challenge&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://nips.cc/&quot;&gt;NIPS&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;1st July&lt;/td&gt;
+      &lt;td&gt;20th Oct&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://sites.google.com/site/trackmlparticle/&quot;&gt;Link&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;-&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;a name=&quot;lip-table&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#lip&quot;&gt;The Look Into Person (LIP) Challenge&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;http://cvpr2018.thecvf.com/program/workshops&quot;&gt;CVPR&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;-&lt;/td&gt;
-      &lt;td&gt;4th June&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;https://vuhcs.github.io/&quot;&gt;Link&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;-&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;a name=&quot;lowpowerir-table&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#lowpowerir&quot;&gt;Low-Power Image Recognition Challenge&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;http://cvpr2018.thecvf.com/program/workshops&quot;&gt;CVPR&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;-&lt;/td&gt;
-      &lt;td&gt;18 June (Onsite)&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;https://rebootingcomputing.ieee.org/lpirc&quot;&gt;Link&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a name=&quot;automl-table&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#automl&quot;&gt;AutoML for Lifelong Machine Learning&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://nips.cc/&quot;&gt;NIPS&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;23rd July&lt;/td&gt;
+      &lt;td&gt;6th Nov&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.4paradigm.com/competition/nips2018&quot;&gt;Link&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;-&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;a name=&quot;davis-table&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#davis&quot;&gt;DAVIS Challenge on Video Object Segmentation&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;http://cvpr2018.thecvf.com/program/workshops&quot;&gt;CVPR&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;1st April&lt;/td&gt;
-      &lt;td&gt;30th June&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;http://davischallenge.org/challenge2018/&quot;&gt;Link&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a name=&quot;pommerman-table&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#pommerman&quot;&gt;Pommerman&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://nips.cc/&quot;&gt;NIPS&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;1st June&lt;/td&gt;
+      &lt;td&gt;26th Nov&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.pommerman.com/&quot;&gt;Link&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;-&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;a name=&quot;hearthstone-table&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#hearthstone&quot;&gt;Hearthstone AI Competition&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;http://www.ieee-cig.org/&quot;&gt;CIG&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a name=&quot;inclusiveimages-table&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#inclusiveimages&quot;&gt;InclusiveImages&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://nips.cc/&quot;&gt;NIPS&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;4th Sep&lt;/td&gt;
+      &lt;td&gt;7th Dec&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://sites.google.com/view/inclusiveimages/&quot;&gt;Link&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;-&lt;/td&gt;
-      &lt;td&gt;15th July&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;https://dockhorn.antares.uberspace.de/wordpress/&quot;&gt;Link&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;02&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;a name=&quot;activitynet-table&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#activitynet&quot;&gt;ActivityNet Large-Scale Activity Recognition Challenge&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;http://cvpr2018.thecvf.com/program/workshops&quot;&gt;CVPR&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;7th December, ‘17&lt;/td&gt;
-      &lt;td&gt;TBA&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;http://activity-net.org/challenges/2018/index.html&quot;&gt;Link&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;07&lt;/td&gt;
+      &lt;td&gt;&lt;a name=&quot;aido-table&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#aido&quot;&gt; The AI Driving Olympics&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://nips.cc/&quot;&gt;NIPS&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;1st Oct&lt;/td&gt;
+      &lt;td&gt;7th Dec&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.duckietown.org/research/AI-Driving-Olympics&quot;&gt;Link&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;-&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a name=&quot;emocontext-table&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#emocontext&quot;&gt;EmoContext&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://nips.cc/&quot;&gt;NIPS&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;21st Aug&lt;/td&gt;
+      &lt;td&gt;10th Jan, 2019&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.humanizing-ai.com/emocontext.html&quot;&gt;Link&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;-&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -361,7 +433,7 @@ We propose hosting an image-compression challenge which specifically targets met
 
 &lt;p&gt;&lt;a href=&quot;https://dockhorn.antares.uberspace.de/wordpress/&quot;&gt;Challenge Website&lt;/a&gt; | &lt;a href=&quot;#hearthstone-table&quot;&gt;Back&lt;/a&gt;&lt;/p&gt;
 
-&lt;h1 id=&quot;icmi-eating-analysis-and-tracking-challenge&quot;&gt;&lt;a name=&quot;eat&quot;&gt;&lt;/a&gt;ICMI Eating Analysis and Tracking Challenge&lt;/h1&gt;
+&lt;h2 id=&quot;icmi-eating-analysis-and-tracking-challenge&quot;&gt;&lt;a name=&quot;eat&quot;&gt;&lt;/a&gt;ICMI Eating Analysis and Tracking Challenge&lt;/h2&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;The multimodal recognition of eating condition - whether a person is eating or not - and if yes, which food type, is a new research domain in the area of speech and video processing that has many promising applications for future multimodal interfaces such as: adapting speech recognition or lip reading systems to different eating conditions (e.g. dictation systems), health (e.g. ingestive behaviour), or security monitoring (e.g., when eating is not allowed).&lt;/p&gt;
@@ -381,6 +453,145 @@ We propose hosting an image-compression challenge which specifically targets met
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://icmi-eat.ihearu-play.eu/&quot;&gt;Challenge Website&lt;/a&gt; | &lt;a href=&quot;#eat-table&quot;&gt;Back&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;automl-for-lifelong-machine-learning&quot;&gt;&lt;a name=&quot;automl&quot;&gt;&lt;/a&gt;AutoML for Lifelong Machine Learning&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;In many real-world machine learning applications, AutoML is strongly needed due to the limited machine learning expertise of developers. Moreover, batches of data in many real-world applications may be arriving daily, weekly, monthly, or yearly, for instance, and the data distributions are changing relatively slowly over time. This presents a continuous learning, or Lifelong Machine Learning challenge for an AutoML system. Typical learning problems of this kind include customer relationship management, on-line advertising, recommendation, sentiment analysis, fraud detection, spam filtering, transportation monitoring, econometrics, patient monitoring, climate monitoring, manufacturing and so on. In this competition, which we are calling &lt;strong&gt;AutoML for Lifelong Machine Learning&lt;/strong&gt;, &lt;strong&gt;large scale&lt;/strong&gt; datasets collected from some of these real-world applications will be used. Compared with previous AutoML competitions(&lt;a href=&quot;http://automl.chalearn.org/&quot;&gt;http://automl.chalearn.org/&lt;/a&gt;), the focus of this competition is on &lt;strong&gt;drifting concepts&lt;/strong&gt;, getting away from the simpler i.i.d. cases. Participants are invited to design a computer program capable of autonomously (without any human intervention) developing predictive models that are trained and evaluated in a lifelong machine learning setting.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.4paradigm.com/competition/nips2018&quot;&gt;Challenge Website&lt;/a&gt; | &lt;a href=&quot;#automl-table&quot;&gt;Back&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;adversarial-vision-challenge&quot;&gt;&lt;a name=&quot;adversarial-vision&quot;&gt;&lt;/a&gt;Adversarial Vision Challenge&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;In this competition you can take on the role of an attacker or a defender (or both). As a defender you are trying to build a visual object classifier that is as robust to image perturbations as possible. As an attacker, your task is to find the smallest possible image perturbations that will fool a classifier.&lt;/p&gt;
+
+  &lt;p&gt;The overall goal of this challenge is to facilitate measurable progress towards robust machine vision models and more generally applicable adversarial attacks. As of right now, modern machine vision algorithms are extremely susceptible to small and almost imperceptible perturbations of their inputs (so-called &lt;em&gt;adversarial examples&lt;/em&gt;). This property reveals an astonishing difference in the information processing of humans and machines and raises security concerns for many deployed machine vision systems like autonomous cars. Improving the robustness of vision algorithms is thus important to close the gap between human and machine perception and to enable safety-critical applications.&lt;/p&gt;
+
+  &lt;p&gt;There will be three tracks in which you and your team can compete:&lt;/p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.crowdai.org/organizers/bethgelab/challenges/nips-2018-adversarial-vision-challenge-robust-model-track&quot;&gt;Robust Model Track&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.crowdai.org/organizers/bethgelab/challenges/nips-2018-adversarial-vision-challenge-untargeted-attack-track&quot;&gt;Untargeted Attacks Track&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.crowdai.org/organizers/bethgelab/challenges/nips-2018-adversarial-vision-challenge-targeted-attack-track/&quot;&gt;Targeted Attacks Track&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.crowdai.org/challenges/nips-2018-adversarial-vision-challenge-robust-model-track/&quot;&gt;Challenge Website&lt;/a&gt; | &lt;a href=&quot;#adversarial-vision-table&quot;&gt;Back&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;trackml-particle-tracking-challenge&quot;&gt;&lt;a name=&quot;particle-tracking&quot;&gt;&lt;/a&gt;TrackML: Particle Tracking Challenge&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;We are organizing a data science competition to stimulate both the ML and HEP communities to renew the toolkit of physicists in preparation for the advent of the next generation of particle detectors in the Large Hadron Collider at CERN. With event rates already reaching hundred of millions of collisions per second, physicists must sift through ten of petabytes of data per year. Ever better software is needed for processing and filtering the most promising events. This will allow the LHC to fulfill its rich physics programme, understanding the private life of the Higgs boson, searching for the elusive dark matter,  or elucidating the dominance of matter over anti-matter in the observable Universe.&lt;/p&gt;
+
+  &lt;p&gt;To mobilise the scientific community around this problem, we are organizing the TrackML challenge, which objective is to use machine learning to quickly reconstruct particle tracks from points left in the silicon detectors. The challenge will be conducted in two phases:&lt;/p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;the on-going Accuracy phase May-Aug 2018 :  favoring innovation of algorithms reaching the highest accuracy, with no speed concern.This phase has been accepted as an official IEEE WCCI 2018 competition (Rio de Janeiro, July 2018) This phase is &lt;a href=&quot;https://www.kaggle.com/c/trackml-particle-identification&quot;&gt;hosted by Kaggle&lt;/a&gt;.&lt;/li&gt;
+    &lt;li&gt;the Throughput phase Sep-Oct 2018 : focussing on speed optimisation. This phase has been accepted as an official NIPS 2018 competition (Montreal, December 2018). That phase will be hosted by Codalab.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://sites.google.com/site/trackmlparticle/&quot;&gt;Challenge Website&lt;/a&gt; | &lt;a href=&quot;#particle-tracking-table&quot;&gt;Back&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;pommerman&quot;&gt;&lt;a name=&quot;pommerman&quot;&gt;&lt;/a&gt;Pommerman&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The game is Pommerman, a variant of the famous &lt;a href=&quot;https://youtu.be/Xef0tkXmSp4?t=34s&quot;&gt;Bomberman&lt;/a&gt;. There are four agents, power ups, and bombs galore in three modes. In FFA, enter an agent and be the last hero standing. In Team, enter a team of two agents that work together to beat the opponents. See &lt;a href=&quot;https://github.com/MultiAgentLearning/playground/tree/master/pommerman&quot;&gt;our Github&lt;/a&gt; for detailed information on gameplay, observations, and actions.&lt;/p&gt;
+
+  &lt;p&gt;Accomplishing tasks with infinitely meaningful variation is common in the real world and difficult to simulate. Competitive multi-agent learning enables this. Every game the agent plays is a novel environment with a new degree of difficulty. Of games that fit that description, Bomberman is a fun and intuitive one that people already love to play. Additionally, it is tenable for all participants as it’s not necessary to train with pixels.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.pommerman.com/&quot;&gt;Challenge Website&lt;/a&gt; | &lt;a href=&quot;#pommerman-table&quot;&gt;Back&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;inclusiveimages-a-challenge-of-distributional-skew-side-information-and-global-inclusion&quot;&gt;&lt;a name=&quot;inclusiveimages&quot;&gt;&lt;/a&gt;InclusiveImages: A Challenge of Distributional Skew, Side Information, and Global Inclusion&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;h4 id=&quot;introduction&quot;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h4&gt;
+
+  &lt;p&gt;Questions surrounding machine learning fairness and inclusivity have attracted heightened attention in recent years, leading to a rapid emergence of a full area of research within the field of machine learning.&lt;/p&gt;
+
+  &lt;p&gt;To provide additional empirical grounding and a venue for head-to-head comparison of new methods, the InclusiveImages competition encourages researchers to develop modeling techniques that reduce the biases that may be encoded in large data sets.  In particular, this competition is focused on the challenge of &lt;em&gt;geographic skew&lt;/em&gt; encountered when the geographic distribution of training images does not fully represent levels of diversity encountered at test or inference time.&lt;/p&gt;
+
+  &lt;h4 id=&quot;how-the-competition-works&quot;&gt;How the Competition Works&lt;/h4&gt;
+
+  &lt;p&gt;Concretely, in this competition researchers will train on &lt;a href=&quot;https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fopenimages%2Fdataset&amp;amp;sa=D&amp;amp;sntz=1&amp;amp;usg=AFQjCNFnSnHGWc1Xqv_E4QI4AHTZb9Hw_w&quot;&gt;Open Images&lt;/a&gt; [&lt;a href=&quot;https://sites.google.com/view/inclusiveimages/references&quot;&gt;2]&lt;/a&gt;, a large, multilabel, publicly-available image classification dataset that has been found to exhibit a geographical skew, and evaluate on InclusiveImages, an image classification dataset collected with explicit inclusion goals, designed as a stress-test of a model’s ability to generalize to images from geographical areas under-represented in the training data.&lt;/p&gt;
+
+  &lt;p&gt;In addition to the Open Images training set, competitors will have access to a large, open-source data set of textual information that may be useful in helping to provide additional information and context to aid a model’s ability to generalize to other geographical distributions.  Competitors will be instructed to assume a geographic shift between training and evaluation data, but will not have all the details of what the shift is, mimicking the real-world situation in which a model may be deployed in an environment that is markedly different than it was trained, as is often the case when localities differ from global distributions.&lt;/p&gt;
+
+  &lt;h4 id=&quot;how-to-address-location-representation&quot;&gt;How to Address Location Representation&lt;/h4&gt;
+
+  &lt;p&gt;Competitors should assume that locations that are over-represented at training may not have the same level of representation at test time, and that their models will explicitly be stress-tested for performance on images from some locations that are under-represented during training.  Competitors will be able to validate their submissions on a validation set which has this quality, and then will be tested on a final evaluation set which is exhibits this quality in a different way.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://sites.google.com/view/inclusiveimages/&quot;&gt;Challenge Website&lt;/a&gt; | &lt;a href=&quot;#inclusiveimages-table&quot;&gt;Back&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;h2 id=&quot;the-conversational-intelligence-challenge-2-convai2&quot;&gt;&lt;a name=&quot;convai2&quot;&gt;&lt;/a&gt;The Conversational Intelligence Challenge 2 (ConvAI2)&lt;/h2&gt;
+
+  &lt;p&gt;There are currently few datasets appropriate for training and evaluating models for non-goal-oriented dialogue systems (chatbots); and equally problematic, there is currently no standard procedure for evaluating such models beyond the classic Turing test.&lt;/p&gt;
+
+  &lt;p&gt;The aim of our competition is therefore to establish a concrete scenario for testing chatbots that aim to engage humans, and become a standard evaluation tool in order to make such systems directly comparable.&lt;/p&gt;
+
+  &lt;p&gt;This is the second Conversational Intelligence (ConvAI) Challenge. The previous one was conducted under the scope of NIPS 2017 Competitions track. This year we aim to improve over last year:&lt;/p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;providing a dataset from the beginning, &lt;a href=&quot;http://convai.io/#personachat-convai2-dataset&quot;&gt;Persona-Chat&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;making the conversations more engaging for humans&lt;/li&gt;
+    &lt;li&gt;simpler evaluation process (automatic evaluation, followed then by human evaluation)&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://convai.io/&quot;&gt;Challenge Website&lt;/a&gt; | &lt;a href=&quot;#convai2-table&quot;&gt;Back&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;the-ai-driving-olympics-ai-do&quot;&gt;&lt;a name=&quot;aido&quot;&gt;&lt;/a&gt;The AI Driving Olympics (AI-DO)&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The Duckietown Foundation is excited to announce the official opening of the The AI Driving Olympics (AI-DO), a new competition focused around AI for self-driving cars.&lt;/p&gt;
+
+  &lt;p&gt;The first edition of the AI-DO  will take place in December 2018, at &lt;a href=&quot;https://nips.cc/Conferences/2018/CompetitionTrack&quot;&gt;NIPS&lt;/a&gt;, the premiere machine learning conference, in Montréal. This is the first competition that will take place at a machine learning conference with real robots.&lt;/p&gt;
+
+  &lt;p&gt;The second edition of AI-DO is already scheduled to take place in May 2019 in conjunction with the International Conference on Robotics and Automation (&lt;a href=&quot;http://www.icra2019.org/&quot;&gt;ICRA&lt;/a&gt;) 2019.&lt;/p&gt;
+
+  &lt;p&gt;The main purpose of the competition is &lt;strong&gt;to probe the frontier of the state of the art&lt;/strong&gt; in machine learning in the interactive and embodied setting.&lt;/p&gt;
+
+  &lt;p&gt;Recent progress in &lt;strong&gt;Deep Learning&lt;/strong&gt;, &lt;strong&gt;Machine Learning&lt;/strong&gt;, and &lt;strong&gt;Reinforcement Learning&lt;/strong&gt; has produced incredible results. This competition is designed to evaluate the real ability for these learning-based systems to control physical mobile robots.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.duckietown.org/research/AI-Driving-Olympics&quot;&gt;Challenge Website&lt;/a&gt; | &lt;a href=&quot;#aido-table&quot;&gt;Back&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;ai-for-prosthetics-challenge&quot;&gt;&lt;a name=&quot;prosthetics&quot;&gt;&lt;/a&gt;AI for Prosthetics challenge&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Welcome to &lt;strong&gt;AI for Prosthetics challenge&lt;/strong&gt;, one of the official challenges in the &lt;a href=&quot;https://nips.cc/Conferences/2018/CompetitionTrack&quot;&gt;NIPS 2018 Competition Track&lt;/a&gt;. In this competition, you are tasked with developing a controller to enable a physiologically-based human model with a prosthetic leg to walk and run. You are provided with a human musculoskeletal model, a physics-based simulation environment &lt;a href=&quot;http://opensim.stanford.edu/&quot;&gt;OpenSim&lt;/a&gt; where you can synthesize physically and physiologically accurate motion, and datasets of normal gait kinematics. You are scored based on how well your agent adapts to the requested velocity vector changing in real time.&lt;/p&gt;
+
+  &lt;p&gt;Our objectives are to:&lt;/p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;bring Deep Reinforcement Learning to solve problems in medicine,&lt;/li&gt;
+    &lt;li&gt;promote open-source tools in RL research (the physics simulator &lt;a href=&quot;http://opensim.stanford.edu/&quot;&gt;OpenSim&lt;/a&gt;, the RL environment, and the competition platform are all open-source),&lt;/li&gt;
+    &lt;li&gt;encourage RL research in computationally complex environments, with stochasticity and highly-dimensional action spaces.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.crowdai.org/challenges/nips-2018-ai-for-prosthetics-challenge&quot;&gt;Challenge Website&lt;/a&gt; | &lt;a href=&quot;#prosthetics-table&quot;&gt;Back&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;emocontext&quot;&gt;&lt;a name=&quot;emocontext&quot;&gt;&lt;/a&gt;EmoContext&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;When you read, ”Why don’t you ever text me”, does it conveys an angry emotion or sad emotion?&lt;/p&gt;
+
+  &lt;p&gt;Understanding Emotions in Textual Conversations is a hard problem in absence of voice modulations and facial expressions. Our shared task, “EmoContext” is designed to invite research in this area. Whether you are an expert in this field, or trying to learn the ropes of Natural Language Processing or Deep Learning, dive in and participate! The shared task is also designed to encourage young researchers to get started, so just &lt;a href=&quot;https://www.humanizing-ai.com/emocontext-organizers.html&quot;&gt;ask &lt;/a&gt;if you have a doubt, and we will help you out!&lt;/p&gt;
+
+  &lt;h4 id=&quot;task-description&quot;&gt;Task Description&lt;/h4&gt;
+
+  &lt;p&gt;In this task, you are given a textual dialogue i.e. a user utterance along with two turns of context, you have to classify the emotion of user utterance as one of the emotion classes: Happy, Sad, Angry or Others. &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Credits:&lt;/strong&gt; &lt;a href=&quot;https://www.linkedin.com/in/ankushchatterjee/&quot;&gt;Ankush Chatterjee&lt;/a&gt;, &lt;em&gt;Microsoft AI &amp;amp; Research, India&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.humanizing-ai.com/emocontext.html&quot;&gt;Challenge Website&lt;/a&gt; | &lt;a href=&quot;#emocontext-table&quot;&gt;Back&lt;/a&gt;&lt;/p&gt;
 
 &lt;div id=&quot;disqus_thread&quot;&gt;
     &lt;button class=&quot;disqus-load&quot; onclick=&quot;loadDisqusComments()&quot;&gt;

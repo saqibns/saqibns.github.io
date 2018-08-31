@@ -28,20 +28,29 @@ If you know of any competition that is not on the list, please let me know in th
 | ~~<a name="microrobotics-table"></a>[Mobile Microrobotics Challenge](#microrobotics)~~ | ~~[ICRA](http://icra2018.org/)~~         | ~~15th December, '17~~ | ~~16th February~~   | ~~[Link](http://icra2018.org/mobile-microrobotics-challenge-2018/)~~ | ~~03~~               |
 | ~~<a name="disguisedfaces-table"></a>[Disguised Faces Workshop Challenge](#disguisedfaces-cvpr)~~ | ~~[CVPR](http://cvpr2018.thecvf.com/program/workshops)~~ | ~~20th January~~       | ~~20th February~~   | ~~[Link](http://iab-rubric.org/DFW/Competition.html)~~ | -                |
 | ~~<a name="ntire-cvpr-table"></a>[New Trends in Image Restoration and Enhancement (NTIRE) Challenge](#ntire-cvpr)~~ | ~~[CVPR](http://cvpr2018.thecvf.com/program/workshops)~~ | ~~10th January~~       | ~~27th February~~   | ~~[Link](http://www.vision.ee.ethz.ch/en/ntire18/)~~ | ~~03~~                |
-| ~~<a name="interspeech-table"></a>[Interspeech Computational Paralinguistics ChallengE (ComParE)](#interspeech)~~ | ~~[Interspeech](http://interspeech2018.org/)~~ | -                  | ~~16th March 2018~~ | ~~[Link](http://emotion-research.net/workshops_folder/workshop.2018-02-12.9681548687)~~ | -                |
+| ~~<a name="interspeech-table"></a>[Interspeech Computational Paralinguistics ChallengE (ComParE)](#interspeech)~~ | ~~[Interspeech](http://interspeech2018.org/)~~ | -                  | ~~16th March~~ | ~~[Link](http://emotion-research.net/workshops_folder/workshop.2018-02-12.9681548687)~~ | -                |
 | ~~<a name="aicity-table"></a>[Nvidia AI City Challenge](#aicity)~~ | ~~[CVPR](http://cvpr2018.thecvf.com/program/workshops)~~ | ~~10th December, '17~~ | ~~31st March~~      | ~~[Link](https://www.aicitychallenge.org/)~~ | -                |
 | ~~<a name="ug2-table"></a>[UG<sup>2</sup> Prize Challenge](#ug2)~~ | ~~[CVPR](http://cvpr2018.thecvf.com/program/workshops)~~ | ~~15th January~~       | ~~2nd April~~       | ~~[Link](http://www.ug2challenge.org/)~~ | ~~02~~                |
-| <a name="djirobomaster-table"></a>[DJI RoboMaster AI Challenge](#djirobomaster) | [ICRA](http://icra2018.org/)             | 1st January            | 10th April          | [Link](http://icra2018.org/dji-robomaster-ai-challenge/) | -                    |
-| <a name="clic-table"></a>[Challenge on Learned Image Compression (CLIC)](#clic) | [CVPR](http://cvpr2018.thecvf.com/program/workshops) | 24th December, '17     | 22nd April          | [Link](http://www.compression.cc/challenge/) | -                    |
-| <a name="landmark-table"></a>[Large-Scale Landmark Recognition](#landmark) | [CVPR](http://cvpr2018.thecvf.com/program/workshops) | 1st January            | 1st May             | [Link](https://landmarkscvprw18.github.io/) | -                    |
-| <a name="robust-vision-table"></a>[Robust Vision Challenge](#robust-vision) | [CVPR](http://cvpr2018.thecvf.com/program/workshops) | 1st February           | 15th May            | [Link](http://www.robustvision.net/)     | 06                    |
-| <a name="eat-table"></a>[ICMI 2018 EAT](#eat) | [ICMI](https://icmi.acm.org/2018/index.php?id=challenges) | 4th April              | 29th May            | [Link](https://icmi-eat.ihearu-play.eu/) | 03                    |
-| <a name="kddcup-table"></a>[KDD Cup](#kddcup) | [KDD](http://www.kdd.org/kdd2018/)       | 15th March             | 31st May            | [Link](https://biendata.com/competition/kdd_2018/) | -                    |
-| <a name="lip-table"></a>[The Look Into Person (LIP) Challenge](#lip) | [CVPR](http://cvpr2018.thecvf.com/program/workshops) | -                      | 4th June            | [Link](https://vuhcs.github.io/)         | -                    |
-| <a name="lowpowerir-table"></a>[Low-Power Image Recognition Challenge](#lowpowerir) | [CVPR](http://cvpr2018.thecvf.com/program/workshops) | -                      | 18 June (Onsite)    | [Link](https://rebootingcomputing.ieee.org/lpirc) | -                    |
-| <a name="davis-table"></a>[DAVIS Challenge on Video Object Segmentation](#davis) | [CVPR](http://cvpr2018.thecvf.com/program/workshops) | 1st April              | 30th June           | [Link](http://davischallenge.org/challenge2018/) | -                    |
-| <a name="hearthstone-table"></a>[Hearthstone AI Competition](#hearthstone) | [CIG](http://www.ieee-cig.org/)          | -                      | 15th July           | [Link](https://dockhorn.antares.uberspace.de/wordpress/) | 02                    |
-| <a name="activitynet-table"></a>[ActivityNet Large-Scale Activity Recognition Challenge](#activitynet) | [CVPR](http://cvpr2018.thecvf.com/program/workshops) | 7th December, '17      | TBA                 | [Link](http://activity-net.org/challenges/2018/index.html) | 07                    |
+| ~~<a name="djirobomaster-table"></a>[DJI RoboMaster AI Challenge](#djirobomaster)~~ | ~~[ICRA](http://icra2018.org/)~~         | ~~1st January~~        | ~~10th April~~      | ~~[Link](http://icra2018.org/dji-robomaster-ai-challenge/)~~ | -                    |
+| ~~<a name="clic-table"></a>[Challenge on Learned Image Compression (CLIC)](#clic)~~ | ~~[CVPR](http://cvpr2018.thecvf.com/program/workshops)~~ | ~~24th December, '17~~ | ~~22nd April~~      | ~~[Link](http://www.compression.cc/challenge/)~~ | -                    |
+| ~~<a name="landmark-table"></a>[Large-Scale Landmark Recognition](#landmark)~~ | ~~[CVPR](http://cvpr2018.thecvf.com/program/workshops)~~ | ~~1st January~~        | ~~1st May~~         | ~~[Link](https://landmarkscvprw18.github.io/)~~ | -                    |
+| ~~<a name="robust-vision-table"></a>[Robust Vision Challenge](#robust-vision)~~ | ~~[CVPR](http://cvpr2018.thecvf.com/program/workshops)~~ | ~~1st February~~       | ~~15th May~~        | ~~[Link](http://www.robustvision.net/)~~ | ~~06~~                |
+| ~~<a name="eat-table"></a>[ICMI 2018 EAT](#eat)~~ | ~~[ICMI](https://icmi.acm.org/2018/index.php?id=challenges)~~ | ~~4th April~~          | ~~29th May~~        | ~~[Link](https://icmi-eat.ihearu-play.eu/)~~ | ~~03~~                |
+| ~~<a name="kddcup-table"></a>[KDD Cup](#kddcup)~~ | ~~[KDD](http://www.kdd.org/kdd2018/)~~   | ~~15th March~~         | ~~31st May~~        | ~~[Link](https://biendata.com/competition/kdd_2018/)~~ | -                |
+| ~~<a name="lip-table"></a>[The Look Into Person (LIP) Challenge](#lip)~~ | ~~[CVPR](http://cvpr2018.thecvf.com/program/workshops)~~ | -                  | ~~4th June~~        | ~~[Link](https://vuhcs.github.io/)~~     | ~~05~~          |
+| ~~<a name="activitynet-table"></a>[ActivityNet Large-Scale Activity Recognition Challenge](#activitynet)~~ | ~~[CVPR](http://cvpr2018.thecvf.com/program/workshops)~~ | ~~7th December, '17~~  | ~~8th June~~      | ~~[Link](http://activity-net.org/challenges/2018/index.html)~~ | ~~07~~                |
+| ~~<a name="lowpowerir-table"></a>[Low-Power Image Recognition Challenge](#lowpowerir)~~ | ~~[CVPR](http://cvpr2018.thecvf.com/program/workshops)~~ | -                 | ~~18 June (Onsite)~~ | ~~[Link](https://rebootingcomputing.ieee.org/lpirc)~~ | -                    |
+| ~~<a name="davis-table"></a>[DAVIS Challenge on Video Object Segmentation](#davis)~~ | ~~[CVPR](http://cvpr2018.thecvf.com/program/workshops)~~ | ~~1st April~~          | ~~30th June~~       | ~~[Link](http://davischallenge.org/challenge2018/)~~ | -                    |
+| ~~<a name="hearthstone-table"></a>[Hearthstone AI Competition](#hearthstone)~~ | ~~[CIG](http://www.ieee-cig.org/)~~      | -                 | ~~15th July~~       | ~~[Link](https://dockhorn.antares.uberspace.de/wordpress/)~~ | ~~02~~                |
+| <a name="prosthetics-table"></a>[AI for Prosthetics](#prosthetics) | [NIPS](https://nips.cc/) | 1st June | 30th Sep | [Link](https://www.crowdai.org/challenges/nips-2018-ai-for-prosthetics-challenge) | - |
+| <a name="convai2-table"></a>[ConvAI2](#convai2) | [NIPS](https://nips.cc/) | 21st Mar | 10th Oct | [Link](http://convai.io/) | - |
+| <a name="adversarial-vision-table"></a>[Adversarial Vision Challenge](#adversarial-vision) | [NIPS](https://nips.cc/) | 2nd July | 10th Oct | [Link](https://www.crowdai.org/challenges/nips-2018-adversarial-vision-challenge-robust-model-track/) | 03 |
+| <a name="particle-tracking-table"></a>[TrackML: Particle Tracking Challenge](#particle-tracking) | [NIPS](https://nips.cc/) | 1st July | 20th Oct | [Link](https://sites.google.com/site/trackmlparticle/) | - |
+| <a name="automl-table"></a>[AutoML for Lifelong Machine Learning](#automl) | [NIPS](https://nips.cc/) | 23rd July | 6th Nov | [Link](https://www.4paradigm.com/competition/nips2018) | - |
+| <a name="pommerman-table"></a>[Pommerman](#pommerman) | [NIPS](https://nips.cc/) | 1st June | 26th Nov | [Link](https://www.pommerman.com/) | - |
+| <a name="inclusiveimages-table"></a>[InclusiveImages](#inclusiveimages) | [NIPS](https://nips.cc/) | 4th Sep | 7th Dec | [Link](https://sites.google.com/view/inclusiveimages/) | - |
+| <a name="aido-table"></a>[ The AI Driving Olympics](#aido) | [NIPS](https://nips.cc/) | 1st Oct | 7th Dec | [Link](https://www.duckietown.org/research/AI-Driving-Olympics) | - |
+| <a name="emocontext-table"></a>[EmoContext](#emocontext) | [NIPS](https://nips.cc/) | 21st Aug | 10th Jan, 2019 | [Link](https://www.humanizing-ai.com/emocontext.html) | - |
 
 
 
@@ -234,7 +243,7 @@ If you know of any competition that is not on the list, please let me know in th
 
 [Challenge Website](https://dockhorn.antares.uberspace.de/wordpress/) &#124; [Back](#hearthstone-table)
 
-# <a name="eat"></a>ICMI Eating Analysis and Tracking Challenge
+## <a name="eat"></a>ICMI Eating Analysis and Tracking Challenge
 
 > The multimodal recognition of eating condition - whether a person is eating or not - and if yes, which food type, is a new research domain in the area of speech and video processing that has many promising applications for future multimodal interfaces such as: adapting speech recognition or lip reading systems to different eating conditions (e.g. dictation systems), health (e.g. ingestive behaviour), or security monitoring (e.g., when eating is not allowed). 
 >
@@ -245,5 +254,122 @@ If you know of any competition that is not on the list, please let me know in th
 >   3. **Chew and Speak Sub-Challenge**: Recognize the level of difficulty to speak while eating
 
 [Challenge Website](https://icmi-eat.ihearu-play.eu/) &#124; [Back](#eat-table)
+
+## <a name="automl"></a>AutoML for Lifelong Machine Learning
+
+> In many real-world machine learning applications, AutoML is strongly needed due to the limited machine learning expertise of developers. Moreover, batches of data in many real-world applications may be arriving daily, weekly, monthly, or yearly, for instance, and the data distributions are changing relatively slowly over time. This presents a continuous learning, or Lifelong Machine Learning challenge for an AutoML system. Typical learning problems of this kind include customer relationship management, on-line advertising, recommendation, sentiment analysis, fraud detection, spam filtering, transportation monitoring, econometrics, patient monitoring, climate monitoring, manufacturing and so on. In this competition, which we are calling **AutoML for Lifelong Machine Learning**, **large scale** datasets collected from some of these real-world applications will be used. Compared with previous AutoML competitions(<http://automl.chalearn.org/>), the focus of this competition is on **drifting concepts**, getting away from the simpler i.i.d. cases. Participants are invited to design a computer program capable of autonomously (without any human intervention) developing predictive models that are trained and evaluated in a lifelong machine learning setting.
+
+[Challenge Website](https://www.4paradigm.com/competition/nips2018) &#124; [Back](#automl-table)
+
+
+
+## <a name="adversarial-vision"></a>Adversarial Vision Challenge
+
+> In this competition you can take on the role of an attacker or a defender (or both). As a defender you are trying to build a visual object classifier that is as robust to image perturbations as possible. As an attacker, your task is to find the smallest possible image perturbations that will fool a classifier.
+>
+> The overall goal of this challenge is to facilitate measurable progress towards robust machine vision models and more generally applicable adversarial attacks. As of right now, modern machine vision algorithms are extremely susceptible to small and almost imperceptible perturbations of their inputs (so-called *adversarial examples*). This property reveals an astonishing difference in the information processing of humans and machines and raises security concerns for many deployed machine vision systems like autonomous cars. Improving the robustness of vision algorithms is thus important to close the gap between human and machine perception and to enable safety-critical applications.
+>
+> There will be three tracks in which you and your team can compete:
+>
+> - [Robust Model Track](https://www.crowdai.org/organizers/bethgelab/challenges/nips-2018-adversarial-vision-challenge-robust-model-track)
+> - [Untargeted Attacks Track](https://www.crowdai.org/organizers/bethgelab/challenges/nips-2018-adversarial-vision-challenge-untargeted-attack-track)
+> - [Targeted Attacks Track](https://www.crowdai.org/organizers/bethgelab/challenges/nips-2018-adversarial-vision-challenge-targeted-attack-track/)
+
+[Challenge Website](https://www.crowdai.org/challenges/nips-2018-adversarial-vision-challenge-robust-model-track/) &#124; [Back](#adversarial-vision-table)
+
+## <a name="particle-tracking"></a>TrackML: Particle Tracking Challenge
+
+> We are organizing a data science competition to stimulate both the ML and HEP communities to renew the toolkit of physicists in preparation for the advent of the next generation of particle detectors in the Large Hadron Collider at CERN. With event rates already reaching hundred of millions of collisions per second, physicists must sift through ten of petabytes of data per year. Ever better software is needed for processing and filtering the most promising events. This will allow the LHC to fulfill its rich physics programme, understanding the private life of the Higgs boson, searching for the elusive dark matter,  or elucidating the dominance of matter over anti-matter in the observable Universe.
+>
+> To mobilise the scientific community around this problem, we are organizing the TrackML challenge, which objective is to use machine learning to quickly reconstruct particle tracks from points left in the silicon detectors. The challenge will be conducted in two phases: 
+>
+> - the on-going Accuracy phase May-Aug 2018 :  favoring innovation of algorithms reaching the highest accuracy, with no speed concern.This phase has been accepted as an official IEEE WCCI 2018 competition (Rio de Janeiro, July 2018) This phase is [hosted by Kaggle](https://www.kaggle.com/c/trackml-particle-identification).
+> - the Throughput phase Sep-Oct 2018 : focussing on speed optimisation. This phase has been accepted as an official NIPS 2018 competition (Montreal, December 2018). That phase will be hosted by Codalab.
+
+[Challenge Website](https://sites.google.com/site/trackmlparticle/) &#124; [Back](#particle-tracking-table)
+
+## <a name="pommerman"></a>Pommerman
+
+> The game is Pommerman, a variant of the famous [Bomberman](https://youtu.be/Xef0tkXmSp4?t=34s). There are four agents, power ups, and bombs galore in three modes. In FFA, enter an agent and be the last hero standing. In Team, enter a team of two agents that work together to beat the opponents. See [our Github](https://github.com/MultiAgentLearning/playground/tree/master/pommerman) for detailed information on gameplay, observations, and actions.
+>
+> Accomplishing tasks with infinitely meaningful variation is common in the real world and difficult to simulate. Competitive multi-agent learning enables this. Every game the agent plays is a novel environment with a new degree of difficulty. Of games that fit that description, Bomberman is a fun and intuitive one that people already love to play. Additionally, it is tenable for all participants as it's not necessary to train with pixels.
+
+ [Challenge Website](https://www.pommerman.com/) &#124; [Back](#pommerman-table)
+
+## <a name="inclusiveimages"></a>InclusiveImages: A Challenge of Distributional Skew, Side Information, and Global Inclusion
+
+> #### **Introduction**
+>
+> Questions surrounding machine learning fairness and inclusivity have attracted heightened attention in recent years, leading to a rapid emergence of a full area of research within the field of machine learning.  
+>
+> To provide additional empirical grounding and a venue for head-to-head comparison of new methods, the InclusiveImages competition encourages researchers to develop modeling techniques that reduce the biases that may be encoded in large data sets.  In particular, this competition is focused on the challenge of *geographic skew* encountered when the geographic distribution of training images does not fully represent levels of diversity encountered at test or inference time.
+>
+> #### How the Competition Works
+>
+> Concretely, in this competition researchers will train on [Open Images](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fopenimages%2Fdataset&sa=D&sntz=1&usg=AFQjCNFnSnHGWc1Xqv_E4QI4AHTZb9Hw_w) [[2\]](https://sites.google.com/view/inclusiveimages/references), a large, multilabel, publicly-available image classification dataset that has been found to exhibit a geographical skew, and evaluate on InclusiveImages, an image classification dataset collected with explicit inclusion goals, designed as a stress-test of a model's ability to generalize to images from geographical areas under-represented in the training data.
+>
+> In addition to the Open Images training set, competitors will have access to a large, open-source data set of textual information that may be useful in helping to provide additional information and context to aid a model's ability to generalize to other geographical distributions.  Competitors will be instructed to assume a geographic shift between training and evaluation data, but will not have all the details of what the shift is, mimicking the real-world situation in which a model may be deployed in an environment that is markedly different than it was trained, as is often the case when localities differ from global distributions. 
+>
+> #### How to Address Location Representation
+>
+> Competitors should assume that locations that are over-represented at training may not have the same level of representation at test time, and that their models will explicitly be stress-tested for performance on images from some locations that are under-represented during training.  Competitors will be able to validate their submissions on a validation set which has this quality, and then will be tested on a final evaluation set which is exhibits this quality in a different way.
+
+ [Challenge Website](https://sites.google.com/view/inclusiveimages/) &#124; [Back](#inclusiveimages-table)
+
+
+
+> ## <a name="convai2"></a>The Conversational Intelligence Challenge 2 (ConvAI2)
+>
+> There are currently few datasets appropriate for training and evaluating models for non-goal-oriented dialogue systems (chatbots); and equally problematic, there is currently no standard procedure for evaluating such models beyond the classic Turing test.
+>
+> The aim of our competition is therefore to establish a concrete scenario for testing chatbots that aim to engage humans, and become a standard evaluation tool in order to make such systems directly comparable.
+>
+> This is the second Conversational Intelligence (ConvAI) Challenge. The previous one was conducted under the scope of NIPS 2017 Competitions track. This year we aim to improve over last year:
+>
+> - providing a dataset from the beginning, [Persona-Chat](http://convai.io/#personachat-convai2-dataset)
+> - making the conversations more engaging for humans
+> - simpler evaluation process (automatic evaluation, followed then by human evaluation)
+
+ [Challenge Website](http://convai.io/) &#124; [Back](#convai2-table)
+
+## <a name="aido"></a>The AI Driving Olympics (AI-DO)
+
+> The Duckietown Foundation is excited to announce the official opening of the The AI Driving Olympics (AI-DO), a new competition focused around AI for self-driving cars.
+>
+> The first edition of the AI-DO  will take place in December 2018, at [NIPS](https://nips.cc/Conferences/2018/CompetitionTrack), the premiere machine learning conference, in Montréal. This is the first competition that will take place at a machine learning conference with real robots.
+>
+> The second edition of AI-DO is already scheduled to take place in May 2019 in conjunction with the International Conference on Robotics and Automation ([ICRA](http://www.icra2019.org/)) 2019.
+>
+> The main purpose of the competition is **to probe the frontier of the state of the art** in machine learning in the interactive and embodied setting. 
+>
+> Recent progress in **Deep Learning**, **Machine Learning**, and **Reinforcement Learning** has produced incredible results. This competition is designed to evaluate the real ability for these learning-based systems to control physical mobile robots. 
+
+ [Challenge Website](https://www.duckietown.org/research/AI-Driving-Olympics) &#124; [Back](#aido-table)
+
+## <a name="prosthetics"></a>AI for Prosthetics challenge
+
+> Welcome to **AI for Prosthetics challenge**, one of the official challenges in the [NIPS 2018 Competition Track](https://nips.cc/Conferences/2018/CompetitionTrack). In this competition, you are tasked with developing a controller to enable a physiologically-based human model with a prosthetic leg to walk and run. You are provided with a human musculoskeletal model, a physics-based simulation environment [OpenSim](http://opensim.stanford.edu/) where you can synthesize physically and physiologically accurate motion, and datasets of normal gait kinematics. You are scored based on how well your agent adapts to the requested velocity vector changing in real time.
+>
+> Our objectives are to:
+>
+> - bring Deep Reinforcement Learning to solve problems in medicine,
+> - promote open-source tools in RL research (the physics simulator [OpenSim](http://opensim.stanford.edu/), the RL environment, and the competition platform are all open-source),
+> - encourage RL research in computationally complex environments, with stochasticity and highly-dimensional action spaces.
+
+ [Challenge Website](https://www.crowdai.org/challenges/nips-2018-ai-for-prosthetics-challenge) &#124; [Back](#prosthetics-table)
+
+## <a name="emocontext"></a>EmoContext
+
+> When you read, "Why don't you ever text me", does it conveys an angry emotion or sad emotion?
+>
+>  Understanding Emotions in Textual Conversations is a hard problem in absence of voice modulations and facial expressions. Our shared task, "EmoContext" is designed to invite research in this area. Whether you are an expert in this field, or trying to learn the ropes of Natural Language Processing or Deep Learning, dive in and participate! The shared task is also designed to encourage young researchers to get started, so just [ask ](https://www.humanizing-ai.com/emocontext-organizers.html)if you have a doubt, and we will help you out!  
+>
+> #### Task Description
+>
+> In this task, you are given a textual dialogue i.e. a user utterance along with two turns of context, you have to classify the emotion of user utterance as one of the emotion classes: Happy, Sad, Angry or Others. 
+
+**Credits:** [Ankush Chatterjee](https://www.linkedin.com/in/ankushchatterjee/), *Microsoft AI & Research, India*
+
+ [Challenge Website](https://www.humanizing-ai.com/emocontext.html) &#124; [Back](#emocontext-table)
 
 {% include disqus.html %}
