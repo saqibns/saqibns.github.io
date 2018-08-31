@@ -50,7 +50,7 @@ If you know of any competition that is not on the list, please let me know in th
 | <a name="pommerman-table"></a>[Pommerman](#pommerman) | [NIPS](https://nips.cc/) | 1st June | 26th Nov | [Link](https://www.pommerman.com/) | - |
 | <a name="inclusiveimages-table"></a>[InclusiveImages](#inclusiveimages) | [NIPS](https://nips.cc/) | 4th Sep | 7th Dec | [Link](https://sites.google.com/view/inclusiveimages/) | - |
 | <a name="aido-table"></a>[ The AI Driving Olympics](#aido) | [NIPS](https://nips.cc/) | 1st Oct | 7th Dec | [Link](https://www.duckietown.org/research/AI-Driving-Olympics) | - |
-| <a name="emocontext-table"></a>[EmoContext](#emocontext) | [NIPS](https://nips.cc/) | 21st Aug | 10th Jan, 2019 | [Link](https://www.humanizing-ai.com/emocontext.html) | - |
+| <a name="emocontext-table"></a>[EmoContext](#emocontext) | ACL/NAACL | 21st Aug | 10th Jan, 2019 | [Link](https://www.humanizing-ai.com/emocontext.html) | - |
 
 
 
