@@ -51,6 +51,7 @@ If you know of any competition that is not on the list, please let me know in th
 | <a name="inclusiveimages-table"></a>[InclusiveImages](#inclusiveimages) | [NIPS](https://nips.cc/) | 4th Sep | 7th Dec | [Link](https://sites.google.com/view/inclusiveimages/) | - |
 | <a name="aido-table"></a>[ The AI Driving Olympics](#aido) | [NIPS](https://nips.cc/) | 1st Oct | 7th Dec | [Link](https://www.duckietown.org/research/AI-Driving-Olympics) | - |
 | <a name="emocontext-table"></a>[EmoContext](#emocontext) | ACL/NAACL | 21st Aug | 10th Jan, 2019 | [Link](https://www.humanizing-ai.com/emocontext.html) | - |
+| <a name="microsoft-ai-table"></a>[Microsoft AI Challenge India](#microsoft-ai) | - | 1st Oct | 10th Jan, 2019 | [Link](https://www.microsoft.com/en-in/campaign/artificial-intelligence/microsoft-ai-challenge-india-2018.aspx) | - |
 
 
 
@@ -368,8 +369,16 @@ If you know of any competition that is not on the list, please let me know in th
 >
 > In this task, you are given a textual dialogue i.e. a user utterance along with two turns of context, you have to classify the emotion of user utterance as one of the emotion classes: Happy, Sad, Angry or Others. 
 
+[Challenge Website](https://www.humanizing-ai.com/emocontext.html) &#124; [Back](#emocontext-table)
+
 **Credits:** [Ankush Chatterjee](https://www.linkedin.com/in/ankushchatterjee/), *Microsoft AI & Research, India*
 
- [Challenge Website](https://www.humanizing-ai.com/emocontext.html) &#124; [Back](#emocontext-table)
+## <a name="microsoft-ai"></a>Microsoft AI Challenge India
+
+> Search engines like BING employ AI to fetch faster and relevant search  results. We are now moving towards a world, where we want answers to our questions, and not just weblinks to our queries. Participate in the  Microsoft AI Challenge India 2018 to find the most relevant answer to a  given question from a bunch of potential answers.
+
+ [Challenge Website](https://www.microsoft.com/en-in/campaign/artificial-intelligence/microsoft-ai-challenge-india-2018.aspx) &#124; [Back](#microsoft-ai-table)
+
+**Credits:** [Ankush Chatterjee](https://www.linkedin.com/in/ankushchatterjee/), *Microsoft AI & Research, India*
 
 {% include disqus.html %}
