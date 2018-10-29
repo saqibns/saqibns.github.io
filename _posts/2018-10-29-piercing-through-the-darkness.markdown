@@ -9,7 +9,7 @@ last_modified_at: 2018-10-2T20:31:52+05:30
 
 *"Talent hits a target no one else can hit. Genius hits a target no one else can see."* <br/> **<small> -- Arthur Schopenhauer </small>**
 
-It was most probably this quote that laid the foundation of my inquisitive nature. But then, maybe it was something else entirely, and my mind just pieced together this quote as the explanation.
+It was most probably this quote that laid the foundation of my inquisitive nature. But then, maybe it was something else entirely, and my mind just pieced together this explanation. The one to follow.
 
 Maintaining extreme levels of curiosity isn't easy, you know. You are bound to irritate someone or the other because of your overwhelming curiosity. Sometimes you might be labeled a misfit for asking that additional question; for going that extra mile when everybody else has pretty much decided to stop and end the matter then and there. When everything has already been agreed upon by everybody, there comes this sudden harsh voice of disagreement - like a gritty pebble in the mouth from a bite out of their favorite dish that leaves a putrid aftertaste.
 
