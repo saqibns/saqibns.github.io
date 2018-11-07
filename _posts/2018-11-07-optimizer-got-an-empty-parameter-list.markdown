@@ -9,7 +9,7 @@ tags:
   - error
   - multilayer perceptron
   - object oriented
-
+author: "Saqib Shamsi"
 last_modified_at: 2018-11-07T15:56:27+05:30
 ---
 
