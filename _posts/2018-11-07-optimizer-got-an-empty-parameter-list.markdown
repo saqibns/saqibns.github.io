@@ -21,7 +21,7 @@ We are going to write a flexible fully connected network, also called a dense ne
 
 Our network will consist of repeated sequences of a fully connected (linear) layer followed by a pointwise non-linear operation (aka activation function). However, rather than fixing the number of layers in our model's class defintion, we will provide it with arguments to let our class know how many layers to create. 
 
-Also, to avoid writing duplicate code, we will create a unit (a PyTorch Module) of a linear layer followed by an activation layer. This would be our basic Lego block. We will combine these Lego blocks as per our need, to create a network of desired width (number of neurons in each layer) and depth (number of layers). The example would also demonstrate the ease with which one can create modular structures in an Object Oriented fashion using `PyTorch`. 
+Also, to avoid writing duplicate code, we will create a unit (a `torch` Module) of a linear layer followed by an activation layer. This would be our basic Lego block. We will combine these Lego blocks as per our need, to create a network of desired width (number of neurons in each layer) and depth (number of layers). The example would also demonstrate the ease with which one can create modular structures in an Object Oriented fashion using `PyTorch`. 
 
 Let's get started.
 
