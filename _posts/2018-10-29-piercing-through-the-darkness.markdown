@@ -4,6 +4,7 @@ title: "Piercing Through the Darkness"
 categories:
   - "Reveries"
 not_main: true
+hidden: true
 last_modified_at: 2018-10-2T20:31:52+05:30
 ---
 
