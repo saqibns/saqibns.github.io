@@ -12,7 +12,7 @@ Hey! Tell me a little about yourself. Things like...
 
 I am a part of the Machine Learning team at Whirlpool Corporation, currently working on Computer Vision. 
 
-Previously, I was a Software Engineer at Aspiring Minds where I work on automata, a system to grade computer programs; auto-interview, a piece of software that judges a candidate's interview performance.
+Previously, I was a Software Engineer at Aspiring Minds where I worked on automata, a system to grade computer programs; auto-interview, a piece of software that judges a candidate's interview performance.
 
 #### What interests you?
 
