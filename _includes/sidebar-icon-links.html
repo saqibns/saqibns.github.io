@@ -30,6 +30,23 @@
       {% include svg/linkedin.svg %}
     </a>
   {% endif %}
+
+  {% if site.kaggle.profile %}
+	<a id="kaggle-link"
+       class="icon" title="Kaggle" aria-label="Kaggle"
+       href="{{ site.kaggle.profile }}">
+      {% include svg/kaggle.svg %}
+    </a>
+  {% endif %}
+
+  {% if site.stackoverflow.profile %}
+	<a id="stackoverflow-link"
+       class="icon" title="Stackoverflow" aria-label="Stackoverflow"
+       href="{{ site.stackoverflow.profile }}">
+      {% include svg/stackoverflow.svg %}
+    </a>
+  {% endif %}
+
   {% assign tags_page = false %}
   {% assign search_page = false %}
   {% for node in site.pages %}

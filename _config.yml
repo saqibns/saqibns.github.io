@@ -67,4 +67,10 @@ email:
 disqus:
   shortname:             saqibns-github-io
 
+kaggle:
+  profile:          https://www.kaggle.com/dranzer  
+
+stackoverflow:
+  profile:          https://stackoverflow.com/users/2935155/saqib-shamsi
+
 google_analytics:     UA-111751077-1
