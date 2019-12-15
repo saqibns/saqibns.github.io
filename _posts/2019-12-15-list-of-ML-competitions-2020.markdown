@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Machine Learning Challenges in 2020"
+title: "Machine Learning Competitions in 2020"
 excerpt: "Try your hands on Machine Learning challenges organized under the umbrella of various conferences."
 tags:
   - conferences
