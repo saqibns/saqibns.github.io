@@ -17,7 +17,7 @@ If you're a procrastinator, you have deadlines to your rescue. They keep you foc
 
 Competition leaderboards (if the competition has one), push you to do better. They keep things in perspective by giving continuous feedback on how you're doing relative to others. You struggle to find better solutions, try to surpass yourself, and in the process keep growing.
 
-Finally, the rewards. They come in various forms. Monetary rewards are one. The satisfaction of solving a challenging problems and growing is another. But the main motivation for writing this post is the third kind of reward. If you're a top performer in a competition organized under a conference, you get a chance to publish your results.
+Finally, the rewards. They come in various forms. Monetary rewards are one. The satisfaction of solving challenging problems and growing is another. But the main motivation for writing this post is the third kind of reward. If you're a top performer in a competition organized under a conference, you get a chance to publish your results.
 
 I was looking for a curated list of such competitions but couldn't find any. So, decided to make one. The table below summarizes all the competitions I could find. They have been ordered according to their deadlines. I plan on updating the list on a regular basis. As more conferences release information about the competitions on their website, I'll add them to the list.
 
