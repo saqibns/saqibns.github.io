@@ -26,12 +26,15 @@ If you know of any competition that is not on the list, please let me know in th
 | Name                                     | Conference                               | Starts                 | Ends                | Website                                  | Sub-Challenges |
 | ---------------------------------------- | ---------------------------------------- | ---------------------- | ------------------- | ---------------------------------------- | -------------------- |
 | <a name="herohe-table"></a>[HEROHE](#herohe-ecdp) | [ECDP](http://ecdp2020.org/) | 1st October, 19 | 15th January | [Link](https://ecdp2020.grand-challenge.org/) | - |
+| <a name="fg2020-table"></a>[Affective Behavior Analysis in-the-wild](#fg2020-fg) | [FG](https://fg2020.org/) | 18th November, 19 | 4th February | [Link](https://ibug.doc.ic.ac.uk/resources/fg-2020-competition-affective-behavior-analysis/) | 03 |
 | <a name="ldnb-table"></a>[LNDb Challenge](#lndb-iciar)       | [ICIAR](https://www.aimiconf.org/iciar20/) | 20th November, 19 | 17th February | [Link](https://lndb.grand-challenge.org/)     | 03             |
 | <a name="ntire-table"></a>[NTIRE](#ntire-cvpr) | [CVPR](http://cvpr2020.thecvf.com/) | 17th December, 19 | 21st February | [Link](http://www.vision.ee.ethz.ch/ntire20/) | 07 |
 | <a name="monusac-table"></a>[MoNuSAC](#monusac-isbi) | [ISBI](http://2020.biomedicalimaging.org/) | 15th November, 19 | 25th February | [Link](https://monusac-2020.grand-challenge.org/) | - |
 | <a name="endocv2020-table"></a>[Cell Tracking Challenge](#endocv-isbi) | [ISBI](http://2020.biomedicalimaging.org/) | 10th November, 19 | 1st March     | [Link](http://celltrackingchallenge.net/)     | 02             |
 | <a name="celltracking-table"></a>[EndoCV2020](#celltracking-isbi) | [ISBI](http://2020.biomedicalimaging.org/) | 1st November, 19  | 6th March     | [Link](https://endocv.grand-challenge.org/)   | 02             |
 | <a name="clic-table"></a>[Challenge on Learned Image Compression](#clic-cvpr) | [CVPR](http://cvpr2020.thecvf.com/)        | 22nd November, 19 | 20th March    | [Link](http://www.compression.cc/)                           | 02             |
+| <a name="emotionet-table"></a>[Emotionet Challenge](#emotionet-cvpr) | [CVPR](http://cvpr2020.thecvf.com/) | December, 19 | March | [Link](http://cbcsl.ece.ohio-state.edu/enc-2020/index.html) | - |
+| <a name="aicity-table"></a>[AI City Challenge](#aicity-cvpr) | [CVPR](http://cvpr2020.thecvf.com/) | 3rd January | 10th May | [Link](https://www.aicitychallenge.org/) | 03 |
 | <a name="webvision-table"></a>[WebVision](#webvision-cvpr) | [CVPR](http://cvpr2020.thecvf.com/) | 1st March | 7th June | [Link](https://www.vision.ee.ethz.ch/webvision/challenge.html) | - |
 | <a name="spacenet-table"></a>[SpaceNet](#spacenet-cvpr) | [CVPR](http://cvpr2020.thecvf.com/) | TBD | TBD | [Link](https://www.grss-ieee.org/earthvision2020/challenge.html) | - |
 
@@ -42,6 +45,14 @@ If you know of any competition that is not on the list, please let me know in th
 > Unlike previous Challenges that evaluated the staining patterns present in IHC, this Grand Challenge new edition proposes to find an image analysis algorithm to identify with high sensitivity and specificity HER2 positive BC from HER2 negative BC specimens evaluating only the morphological features present on the hematoxylin and eosin (HE) slide.
 
 [Challenge Website](https://ecdp2020.grand-challenge.org/) &#124; [Back](#herohe-table)
+
+
+
+## <a name="fg2020-fg"></a>Affective Behavior Analysis in-the-wild
+
+> This Competition aims at advancing the state-of-the-art in the problem of analysis of human affective behavior in-the-wild. Representing human emotions has been a basic topic of research. The most frequently used emotion representation is the categorical one, including the seven basic categories, i.e., Anger, Disgust, Fear, Happiness, Sadness, Surprise and Neutral. Discrete emotion representation can also be described in terms of the Facial Action Coding System model, in which all possible facial actions are described in terms of Action Units (AUs). Finally, the dimensional model of affect has been proposed as a means to distinguish between subtly different displays of affect and encode small changes in the intensity of each emotion on a continuous scale. The 2-D Valence and Arousal Space (VA-Space) is the most usual dimensional emotion representation; valence shows how positive or negative an emotional state is, whilst arousal shows how passive or active it is.
+
+[Challenge Website](https://ibug.doc.ic.ac.uk/resources/fg-2020-competition-affective-behavior-analysis/) &#124; [Back](#fg2020-table)
 
 
 
@@ -110,3 +121,27 @@ If you know of any competition that is not on the list, please let me know in th
 > In the SpaceNet 6 challenge, participants will be asked to automatically extract building footprints with computer vision and artificial intelligence (AI) algorithms using a combination of these two diverse remote sensing datasets. For training data, participants will be allowed to leverage both the electro-optical and SAR datasets. However, for testing models and scoring performance only a subset of the data will be made available. We hope that such a structure will incentivize new data fusion methods and other approaches such as domain adaptation.
 
 [Challenge Website](https://www.grss-ieee.org/earthvision2020/challenge.html) &#124; [Back](#spacenet-table)
+<<<<<<< HEAD
+
+
+
+## <a name="aicity-cvpr"></a>AI City Challenge
+
+> Transportation is one of the largest segments that can benefit from actionable insights derived from data captured by sensors. Between traffic , signaling systems, transportation systems, infrastructure, and transit, the opportunity for insights from these sensors to make transportation systems smarter is immense. Unfortunately, there are several reasons why these potential benefits have not yet materialized. Poor data quality, the lack of labels for the data, and the lack of high-quality models that can convert the data into actionable insights are some of the biggest impediments to unlocking the value of the data. There is also need for platforms that allow for appropriate analysis from edge to cloud, which will accelerate the development and deployment of these models. The AI City Workshop at CVPR 2020 will specifically focus on ITS problems such as:
+>
+> - Turn-counts used by DOTs for signal timing planning
+> - City-scale multi-camera vehicle re-identification w. real and synthetic trianing data
+> - City-scale multi-camera vehicle tracking
+> - Anomaly detection – detecting anomalies such as lane violation, wrong-direction driving, etc.
+
+[Challenge Website](https://www.aicitychallenge.org/) &#124; [Back](#aicity-table)
+
+
+
+## <a name="emotionet-cvpr"></a>Emotionet Challenge
+
+> The EmotioNet Challenge 2020 (ENC-2020) evaluates the ability of computer vision algorithms to automatically analyze a large number of "in the wild" images for facial expressions.
+>
+> Research groups that have designed or are developing algorithms for the analysis of facial expressions are encouraged to participate in this challenge.
+
+[Challenge Website](http://cbcsl.ece.ohio-state.edu/enc-2020/index.html) &#124; [Back](#emotionet-table)
