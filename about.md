@@ -30,6 +30,8 @@ Food. Indian cuisine. I prefer spicy over sweet. Dosas, Idlis, Kadhai Paneer, Da
 
 Anime. They have had a lasting impact on me. A lot of characters - Naruto Uzumaki, Itachi Uchiha, Akane Tsunemori, Lelouch vi Britannia, Kaori Miyazono, Hana, Roy Mustang, to name a few - have shaped my worldview and have taught me a lot. 
 
+I also create [artwork](https://www.instagram.com/snshamsi/) using machine learning.
+
 #### How can I get in touch?
 
 You can drop me a [mail](mailto:shamsi.saqib@gmail.com) or can use any of the social media channels.
