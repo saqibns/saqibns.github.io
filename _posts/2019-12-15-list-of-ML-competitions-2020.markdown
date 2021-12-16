@@ -19,7 +19,7 @@ Competition leaderboards (if the competition has one), push you to do better. Th
 
 Finally, the rewards. They come in various forms. Monetary rewards are one. The satisfaction of solving challenging problems and growing is another. But the main motivation for writing this post is the third kind of reward. If you're a top performer in a competition organized under a conference, you get a chance to publish your results.
 
-I was looking for a curated list of such competitions but couldn't find any. So, decided to make one. The table below summarizes all the competitions I could find. They have been ordered according to their deadlines. I plan on updating the list on a regular basis. As more conferences release information about the competitions on their website, I'll add them to the list.
+The scope of this list is limited to research based competitions. I was looking for a curated list of such competitions but couldn't find any. So, decided to create one. However, there is a nicely curated [Machine Learning Contests](https://mlcontests.com/) list by [Harald Carlens](https://twitter.com/hcarlens) which covers a broader scope than mine. The table below summarizes all the competitions I could find. They have been ordered according to their deadlines. I plan on updating the list on a regular basis. As more conferences release information about the competitions on their website, I'll add them to the list.
 
 If you know of any competition that is not on the list, please let me know in the comments or feel free to send a pull request.
 
