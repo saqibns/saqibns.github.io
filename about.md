@@ -34,7 +34,7 @@ I also create [artwork](https://www.instagram.com/snshamsi/) using machine learn
 
 #### How can I get in touch?
 
-You can drop me a [mail](mailto:shamsi.saqib@gmail.com) or can use any of the social media channels.
+You can drop me an [email](mailto:shamsi.saqib@gmail.com) or can use any of my social media channels.
 
 #### What if I want to send an ultra-secret message?
 

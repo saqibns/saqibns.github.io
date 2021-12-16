@@ -25,18 +25,19 @@ If you know of any competition that is not on the list, please let me know in th
 
 | Name                                     | Conference                               | Starts                 | Ends                | Website                                  | Sub-Challenges |
 | ---------------------------------------- | ---------------------------------------- | ---------------------- | ------------------- | ---------------------------------------- | -------------------- |
-| <a name="herohe-table"></a>[HEROHE](#herohe-ecdp) | [ECDP](http://ecdp2020.org/) | 1st October, 19 | 15th January | [Link](https://ecdp2020.grand-challenge.org/) | - |
-| <a name="fg2020-table"></a>[Affective Behavior Analysis in-the-wild](#fg2020-fg) | [FG](https://fg2020.org/) | 18th November, 19 | 4th February | [Link](https://ibug.doc.ic.ac.uk/resources/fg-2020-competition-affective-behavior-analysis/) | 03 |
-| <a name="ldnb-table"></a>[LNDb Challenge](#lndb-iciar)       | [ICIAR](https://www.aimiconf.org/iciar20/) | 20th November, 19 | 17th February | [Link](https://lndb.grand-challenge.org/)     | 03             |
-| <a name="ntire-table"></a>[NTIRE](#ntire-cvpr) | [CVPR](http://cvpr2020.thecvf.com/) | 17th December, 19 | 21st February | [Link](http://www.vision.ee.ethz.ch/ntire20/) | 07 |
-| <a name="monusac-table"></a>[MoNuSAC](#monusac-isbi) | [ISBI](http://2020.biomedicalimaging.org/) | 15th November, 19 | 25th February | [Link](https://monusac-2020.grand-challenge.org/) | - |
-| <a name="endocv2020-table"></a>[Cell Tracking Challenge](#endocv-isbi) | [ISBI](http://2020.biomedicalimaging.org/) | 10th November, 19 | 1st March     | [Link](http://celltrackingchallenge.net/)     | 02             |
-| <a name="celltracking-table"></a>[EndoCV2020](#celltracking-isbi) | [ISBI](http://2020.biomedicalimaging.org/) | 1st November, 19  | 6th March     | [Link](https://endocv.grand-challenge.org/)   | 02             |
-| <a name="clic-table"></a>[Challenge on Learned Image Compression](#clic-cvpr) | [CVPR](http://cvpr2020.thecvf.com/)        | 22nd November, 19 | 20th March    | [Link](http://www.compression.cc/)                           | 02             |
-| <a name="emotionet-table"></a>[Emotionet Challenge](#emotionet-cvpr) | [CVPR](http://cvpr2020.thecvf.com/) | December, 19 | March | [Link](http://cbcsl.ece.ohio-state.edu/enc-2020/index.html) | - |
-| <a name="aicity-table"></a>[AI City Challenge](#aicity-cvpr) | [CVPR](http://cvpr2020.thecvf.com/) | 3rd January | 10th May | [Link](https://www.aicitychallenge.org/) | 03 |
-| <a name="webvision-table"></a>[WebVision](#webvision-cvpr) | [CVPR](http://cvpr2020.thecvf.com/) | 1st March | 7th June | [Link](https://www.vision.ee.ethz.ch/webvision/challenge.html) | - |
-| <a name="spacenet-table"></a>[SpaceNet](#spacenet-cvpr) | [CVPR](http://cvpr2020.thecvf.com/) | TBD | TBD | [Link](https://www.grss-ieee.org/earthvision2020/challenge.html) | - |
+| ~~<a name="herohe-table"></a>[HEROHE](#herohe-ecdp)~~ | ~~[ECDP](http://ecdp2020.org/)~~ | ~~1st October, 19~~ | ~~15th January~~ | ~~[Link](https://ecdp2020.grand-challenge.org/)~~ | ~~-~~ |
+| ~~<a name="fg2020-table"></a>[Affective Behavior Analysis in-the-wild](#fg2020-fg)~~ | ~~[FG](https://fg2020.org/)~~ | ~~18th November, 19~~ | ~~4th February~~ | ~~[Link](https://ibug.doc.ic.ac.uk/resources/fg-2020-competition-affective-behavior-analysis/)~~ | ~~03~~ |
+| ~~<a name="ldnb-table"></a>[LNDb Challenge](#lndb-iciar)~~   | ~~[ICIAR](https://www.aimiconf.org/iciar20/)~~ | ~~20th November, 19~~ | ~~17th February~~ | ~~[Link](https://lndb.grand-challenge.org/)~~ | ~~03~~         |
+| ~~<a name="ntire-table"></a>[NTIRE](#ntire-cvpr)~~ | ~~[CVPR](http://cvpr2020.thecvf.com/)~~ | ~~17th December, 19~~ | ~~21st February~~ | ~~[Link](http://www.vision.ee.ethz.ch/ntire20/)~~ | ~~07~~ |
+| ~~<a name="monusac-table"></a>[MoNuSAC](#monusac-isbi)~~ | ~~[ISBI](http://2020.biomedicalimaging.org/)~~ | ~~15th November, 19~~ | ~~25th February~~ | ~~[Link](https://monusac-2020.grand-challenge.org/)~~ | ~~-~~ |
+| ~~<a name="endocv2020-table"></a>[Cell Tracking Challenge](#endocv-isbi)~~ | ~~[ISBI](http://2020.biomedicalimaging.org/)~~ | ~~10th November, 19~~ | ~~1st March~~ | ~~[Link](http://celltrackingchallenge.net/)~~ | ~~02~~         |
+| ~~<a name="celltracking-table"></a>[EndoCV2020](#celltracking-isbi)~~ | ~~[ISBI](http://2020.biomedicalimaging.org/)~~ | ~~1st November, 19~~ | ~~6th March~~ | ~~[Link](https://endocv.grand-challenge.org/)~~ | ~~02~~         |
+| ~~<a name="agrivision-table"></a>[Vision for Agriculture](#agrivision-cvpr)~~ | ~~[CVPR](http://cvpr2020.thecvf.com/)~~ | ~~27th January~~ | ~~10th March~~ | ~~[Link](https://www.agriculture-vision.com/prize-challenge)~~ | ~~-~~ |
+| ~~<a name="clic-table"></a>[Challenge on Learned Image Compression](#clic-cvpr)~~ | ~~[CVPR](http://cvpr2020.thecvf.com/)~~    | ~~22nd November, 19~~ | ~~20th March~~ | ~~[Link](http://www.compression.cc/)~~                       | ~~02~~         |
+| ~~<a name="emotionet-table"></a>[Emotionet Challenge](#emotionet-cvpr)~~ | ~~[CVPR](http://cvpr2020.thecvf.com/)~~ | ~~December, 19~~ | ~~March~~ | ~~[Link](http://cbcsl.ece.ohio-state.edu/enc-2020/index.html)~~ | ~~-~~ |
+| ~~<a name="aicity-table"></a>[AI City Challenge](#aicity-cvpr)~~ | ~~[CVPR](http://cvpr2020.thecvf.com/)~~ | ~~3rd January~~ | ~~10th May~~ | ~~[Link](https://www.aicitychallenge.org/)~~ | ~~03~~ |
+| ~~<a name="webvision-table"></a>[WebVision](#webvision-cvpr)~~ | ~~[CVPR](http://cvpr2020.thecvf.com/)~~ | ~~1st March~~ | ~~7th June~~ | ~~[Link](https://www.vision.ee.ethz.ch/webvision/challenge.html)~~ | ~~-~~ |
+| ~~<a name="spacenet-table"></a>[SpaceNet](#spacenet-cvpr)~~ | ~~[CVPR](http://cvpr2020.thecvf.com/)~~ | ~~TBD~~ | ~~TBD~~ | ~~[Link](https://www.grss-ieee.org/earthvision2020/challenge.html)~~ | ~~-~~ |
 
 
 
